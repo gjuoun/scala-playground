@@ -8,7 +8,7 @@
       "type": "scala",
       "name": "Debug example.Hello",
       "request": "launch",
-      "mainClass": "example.Hello",
+      "mainClass": "example.${fileBasenameNoExtension}",
       "args": []
     }
   ]

@@ -3357,3 +3357,1842 @@ WARNING: Unmatched cancel notification for request id 2022
 2020.07.07 00:29:43 INFO  compiling hello (1 scala source)
 2020.07.07 00:29:43 INFO  time: compiled hello in 82ms
 2020.07.07 00:29:43 INFO  time: compiled hello in 75ms
+2020.07.07 01:24:02 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 33m 1.001s)
+2020.07.07 01:24:02 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 32m 43.9s)
+2020.07.07 01:24:02 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:02 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:02 INFO  time: compiled hello in 0.14s
+2020.07.07 01:24:02 INFO  time: compiled hello in 0.14s
+2020.07.07 01:24:04 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:04 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 33m 3.179s)
+2020.07.07 01:24:04 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:04 INFO  time: compiled hello in 85ms
+2020.07.07 01:24:04 INFO  time: compiled hello in 79ms
+2020.07.07 01:24:08 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 32m 49.98s)
+2020.07.07 01:24:08 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:08 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:08 INFO  time: compiled hello in 0.84s
+2020.07.07 01:24:08 INFO  time: compiled hello in 0.85s
+2020.07.07 01:24:18 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 33m 17.454s)
+2020.07.07 01:24:18 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 33m 0.35s)
+2020.07.07 01:24:18 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:18 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:18 INFO  time: compiled hello in 0.11s
+2020.07.07 01:24:18 INFO  time: compiled hello in 0.11s
+2020.07.07 01:24:20 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 33m 2.504s)
+2020.07.07 01:24:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:20 INFO  time: compiled hello in 0.77s
+2020.07.07 01:24:20 INFO  time: compiled hello in 0.77s
+2020.07.07 01:24:23 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 33m 5.302s)
+2020.07.07 01:24:23 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:23 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:23 INFO  time: compiled hello in 0.76s
+2020.07.07 01:24:23 INFO  time: compiled hello in 0.76s
+2020.07.07 01:24:26 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 33m 8.082s)
+2020.07.07 01:24:26 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:26 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:26 INFO  time: compiled hello in 0.61s
+2020.07.07 01:24:26 INFO  time: compiled hello in 0.61s
+2020.07.07 01:24:51 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 33m 33.352s)
+2020.07.07 01:24:51 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 33m 33.37s)
+2020.07.07 01:24:51 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:51 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:51 INFO  time: compiled hello in 0.13s
+2020.07.07 01:24:51 INFO  time: compiled hello in 0.13s
+2020.07.07 01:24:53 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:53 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 33m 35.529s)
+2020.07.07 01:24:53 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:53 INFO  time: compiled hello in 87ms
+2020.07.07 01:24:53 INFO  time: compiled hello in 83ms
+2020.07.07 01:24:55 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 33m 54.757s)
+2020.07.07 01:24:55 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 33m 54.765s)
+2020.07.07 01:24:55 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:55 INFO  compiling hello (1 scala source)
+2020.07.07 01:24:55 INFO  time: compiled hello in 85ms
+2020.07.07 01:24:55 INFO  time: compiled hello in 87ms
+2020.07.07 01:24:57 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 33m 56.898s)
+2020.07.07 01:24:57 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 33m 56.903s)
+2020.07.07 01:25:15 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 34m 14.605s)
+2020.07.07 01:25:15 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 34m 14.618s)
+2020.07.07 01:25:15 INFO  compiling hello (1 scala source)
+2020.07.07 01:25:15 INFO  compiling hello (1 scala source)
+2020.07.07 01:25:15 INFO  time: compiled hello in 0.13s
+2020.07.07 01:25:15 INFO  time: compiled hello in 0.13s
+2020.07.07 01:25:17 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 33m 59.663s)
+2020.07.07 01:25:17 INFO  compiling hello (1 scala source)
+2020.07.07 01:25:17 INFO  compiling hello (1 scala source)
+2020.07.07 01:25:17 INFO  time: compiled hello in 96ms
+2020.07.07 01:25:17 INFO  time: compiled hello in 96ms
+2020.07.07 01:25:21 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 34m 20.148s)
+2020.07.07 01:25:21 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 34m 3.044s)
+2020.07.07 01:25:21 INFO  compiling hello (1 scala source)
+2020.07.07 01:25:21 INFO  compiling hello (1 scala source)
+2020.07.07 01:25:21 INFO  time: compiled hello in 0.73s
+2020.07.07 01:25:21 INFO  time: compiled hello in 0.74s
+2020.07.07 01:25:24 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 34m 5.811s)
+Jul 07, 2020 1:25:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: String index out of range: -10
+java.lang.StringIndexOutOfBoundsException: String index out of range: -10
+	at java.lang.String.<init>(String.java:196)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:376)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:374)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:199)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:310)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:304)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5(SignatureHelpProvider.scala:340)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$5$adapted(SignatureHelpProvider.scala:317)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3(SignatureHelpProvider.scala:317)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.$anonfun$visit$3$adapted(SignatureHelpProvider.scala:316)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:912)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:911)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:316)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:304)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:273)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:27)
+
+2020.07.07 01:25:26 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 34m 8.011s)
+2020.07.07 01:25:26 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 34m 25.128s)
+2020.07.07 01:25:26 INFO  compiling hello (1 scala source)
+2020.07.07 01:25:26 INFO  compiling hello (1 scala source)
+2020.07.07 01:25:26 INFO  time: compiled hello in 0.78s2020.07.07 01:25:26 INFO  time: compiled hello in 0.78s
+
+2020.07.07 01:25:29 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 34m 27.932s)
+2020.07.07 01:25:29 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 34m 27.938s)
+2020.07.07 01:25:36 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 34m 35.526s)
+2020.07.07 01:25:36 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 34m 18.425s)
+2020.07.07 01:25:36 INFO  compiling hello (1 scala source)
+2020.07.07 01:25:36 INFO  compiling hello (1 scala source)
+2020.07.07 01:25:36 INFO  time: compiled hello in 0.71s
+2020.07.07 01:25:36 INFO  time: compiled hello in 0.72s
+2020.07.07 01:25:39 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 34m 21.159s)
+2020.07.07 01:25:42 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 34m 23.964s)
+2020.07.07 01:25:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:25:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:25:42 INFO  time: compiled hello in 0.72s
+2020.07.07 01:25:42 INFO  time: compiled hello in 0.72s
+2020.07.07 01:26:49 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 35m 30.814s)
+2020.07.07 01:26:49 INFO  compiling hello (1 scala source)
+2020.07.07 01:26:49 INFO  compiling hello (1 scala source)
+2020.07.07 01:26:49 INFO  time: compiled hello in 0.64s
+2020.07.07 01:26:49 INFO  time: compiled hello in 0.64s
+2020.07.07 01:26:51 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 35m 33.486s)
+2020.07.07 01:26:55 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 35m 36.981s)
+2020.07.07 01:26:55 INFO  compiling hello (1 scala source)
+2020.07.07 01:26:55 INFO  compiling hello (1 scala source)
+2020.07.07 01:26:55 INFO  time: compiled hello in 0.78s
+2020.07.07 01:26:55 INFO  time: compiled hello in 0.79s
+2020.07.07 01:26:57 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 35m 39.796s)
+2020.07.07 01:26:57 INFO  compiling hello (1 scala source)
+2020.07.07 01:26:57 INFO  compiling hello (1 scala source)
+2020.07.07 01:26:57 INFO  time: compiled hello in 50ms
+2020.07.07 01:26:57 INFO  time: compiled hello in 52ms
+2020.07.07 01:27:00 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 35m 59.003s)
+2020.07.07 01:27:00 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 35m 59.013s)
+2020.07.07 01:27:00 INFO  compiling hello (1 scala source)2020.07.07 01:27:00 INFO  compiling hello (1 scala source)
+
+2020.07.07 01:27:00 INFO  time: compiled hello in 0.1s
+2020.07.07 01:27:00 INFO  time: compiled hello in 0.1s
+2020.07.07 01:27:03 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 35m 45.428s)
+2020.07.07 01:27:03 INFO  compiling hello (1 scala source)
+2020.07.07 01:27:03 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 36m 2.558s)
+2020.07.07 01:27:03 INFO  compiling hello (1 scala source)
+2020.07.07 01:27:03 INFO  time: compiled hello in 72ms
+2020.07.07 01:27:03 INFO  time: compiled hello in 78ms
+2020.07.07 01:27:05 INFO  compiling hello (1 scala source)
+2020.07.07 01:27:05 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 35m 47.538s)
+2020.07.07 01:27:05 INFO  compiling hello (1 scala source)
+2020.07.07 01:27:05 INFO  time: compiled hello in 44ms
+2020.07.07 01:27:05 INFO  time: compiled hello in 40ms
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/.metals/readonly/scala/collection/immutable/Map.scala in scala.collection.immutable.AbstractMap[Any,Nothing]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/.metals/readonly/scala/collection/immutable/Map.scala, 3857, 3857, 3882)
+2020.07.07 01:29:31 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 38m 30.801s)
+2020.07.07 01:29:31 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 38m 13.695s)
+2020.07.07 01:29:31 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:31 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:31 INFO  time: compiled hello in 0.14s
+2020.07.07 01:29:31 INFO  time: compiled hello in 0.14s
+2020.07.07 01:29:34 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:34 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 38m 32.987s)
+2020.07.07 01:29:34 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:34 INFO  time: compiled hello in 0.1s
+2020.07.07 01:29:34 INFO  time: compiled hello in 0.11s
+2020.07.07 01:29:36 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 38m 18s)
+2020.07.07 01:29:36 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:36 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:36 INFO  time: compiled hello in 87ms
+2020.07.07 01:29:36 INFO  time: compiled hello in 90ms
+2020.07.07 01:29:46 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 38m 27.874s)
+2020.07.07 01:29:46 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 38m 27.899s)
+2020.07.07 01:29:46 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:46 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:46 INFO  time: compiled hello in 0.14s
+2020.07.07 01:29:46 INFO  time: compiled hello in 0.14s
+2020.07.07 01:29:48 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 38m 30.059s)
+2020.07.07 01:29:48 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:48 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:48 INFO  time: compiled hello in 90ms
+2020.07.07 01:29:48 INFO  time: compiled hello in 92ms
+2020.07.07 01:29:50 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 38m 32.177s)
+2020.07.07 01:29:50 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 38m 32.186s)
+2020.07.07 01:29:50 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:50 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:50 INFO  time: compiled hello in 0.1s
+2020.07.07 01:29:50 INFO  time: compiled hello in 0.1s
+2020.07.07 01:29:54 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 38m 36.018s)
+2020.07.07 01:29:54 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:54 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:54 INFO  time: compiled hello in 0.13s
+2020.07.07 01:29:54 INFO  time: compiled hello in 0.13s
+2020.07.07 01:29:56 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 38m 38.179s)
+2020.07.07 01:29:56 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:56 INFO  compiling hello (1 scala source)
+2020.07.07 01:29:56 INFO  time: compiled hello in 0.13s
+2020.07.07 01:29:56 INFO  time: compiled hello in 0.13s
+2020.07.07 01:30:32 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 39m 14.739s)
+2020.07.07 01:30:32 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 39m 31.869s)
+2020.07.07 01:30:32 INFO  compiling hello (1 scala source)
+2020.07.07 01:30:32 INFO  compiling hello (1 scala source)
+2020.07.07 01:30:32 INFO  time: compiled hello in 0.74s
+2020.07.07 01:30:32 INFO  time: compiled hello in 0.75s
+2020.07.07 01:30:35 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 39m 34.643s)
+2020.07.07 01:30:41 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 39m 40.284s)
+2020.07.07 01:30:41 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 39m 40.291s)
+2020.07.07 01:30:41 INFO  compiling hello (1 scala source)
+2020.07.07 01:30:41 INFO  compiling hello (1 scala source)
+2020.07.07 01:30:41 INFO  time: compiled hello in 0.91s
+2020.07.07 01:30:41 INFO  time: compiled hello in 0.91s
+2020.07.07 01:30:44 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 39m 43.238s)
+2020.07.07 01:30:46 INFO  compiling hello (1 scala source)
+2020.07.07 01:30:46 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 39m 45.267s)
+2020.07.07 01:30:46 INFO  compiling hello (1 scala source)
+2020.07.07 01:30:46 INFO  time: compiled hello in 0.77s
+2020.07.07 01:30:46 INFO  time: compiled hello in 0.77s
+2020.07.07 01:30:51 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 39m 32.971s)
+2020.07.07 01:30:51 INFO  compiling hello (1 scala source)
+2020.07.07 01:30:51 INFO  compiling hello (1 scala source)
+2020.07.07 01:30:51 INFO  time: compiled hello in 58ms
+2020.07.07 01:30:51 INFO  time: compiled hello in 61ms
+2020.07.07 01:30:53 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 39m 52.168s)
+2020.07.07 01:30:53 INFO  compiling hello (1 scala source)
+2020.07.07 01:30:53 INFO  compiling hello (1 scala source)
+2020.07.07 01:30:53 INFO  time: compiled hello in 0.61s
+2020.07.07 01:30:53 INFO  time: compiled hello in 0.61s
+2020.07.07 01:30:58 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 39m 57.566s)
+2020.07.07 01:30:58 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 39m 40.473s)
+2020.07.07 01:30:58 INFO  compiling hello (1 scala source)
+2020.07.07 01:30:58 INFO  compiling hello (1 scala source)
+2020.07.07 01:30:58 INFO  time: compiled hello in 0.71s
+2020.07.07 01:30:58 INFO  time: compiled hello in 0.72s
+2020.07.07 01:31:01 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 39m 43.223s)
+2020.07.07 01:32:34 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 41m 33.004s)
+2020.07.07 01:32:34 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 41m 15.903s)
+2020.07.07 01:32:34 INFO  compiling hello (1 scala source)
+2020.07.07 01:32:34 INFO  compiling hello (1 scala source)
+2020.07.07 01:32:34 INFO  time: compiled hello in 0.16s
+2020.07.07 01:32:34 INFO  time: compiled hello in 0.16s
+2020.07.07 01:32:36 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 41m 35.209s)
+2020.07.07 01:32:36 INFO  compiling hello (1 scala source)
+2020.07.07 01:32:36 INFO  compiling hello (1 scala source)
+2020.07.07 01:32:36 INFO  time: compiled hello in 0.11s
+2020.07.07 01:32:36 INFO  time: compiled hello in 0.11s
+2020.07.07 01:32:41 INFO  compiling hello (1 scala source)
+2020.07.07 01:32:41 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 41m 22.989s)
+2020.07.07 01:32:41 INFO  compiling hello (1 scala source)
+2020.07.07 01:32:41 INFO  time: compiled hello in 0.19s
+2020.07.07 01:32:41 INFO  time: compiled hello in 0.18s
+2020.07.07 01:32:43 INFO  compiling hello (1 scala source)
+2020.07.07 01:32:43 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 41m 42.314s)
+2020.07.07 01:32:43 INFO  compiling hello (1 scala source)
+2020.07.07 01:32:43 INFO  time: compiled hello in 0.1s
+2020.07.07 01:32:43 INFO  time: compiled hello in 0.11s
+2020.07.07 01:33:02 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 41m 44.239s)
+2020.07.07 01:33:02 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 42m 1.365s)
+2020.07.07 01:33:02 INFO  compiling hello (1 scala source)
+2020.07.07 01:33:02 INFO  compiling hello (1 scala source)
+2020.07.07 01:33:02 INFO  time: compiled hello in 0.12s
+2020.07.07 01:33:02 INFO  time: compiled hello in 0.13s
+2020.07.07 01:33:04 INFO  compiling hello (1 scala source)
+2020.07.07 01:33:04 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 41m 46.408s)
+2020.07.07 01:33:04 INFO  compiling hello (1 scala source)
+2020.07.07 01:33:04 INFO  time: compiled hello in 0.68s
+2020.07.07 01:33:04 INFO  time: compiled hello in 0.69s
+2020.07.07 01:33:11 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 42m 10.351s)
+2020.07.07 01:33:11 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 42m 10.37s)
+2020.07.07 01:33:11 INFO  compiling hello (1 scala source)
+2020.07.07 01:33:11 INFO  compiling hello (1 scala source)
+2020.07.07 01:33:11 INFO  time: compiled hello in 73ms
+2020.07.07 01:33:11 INFO  time: compiled hello in 77ms
+2020.07.07 01:33:13 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 42m 12.484s)
+2020.07.07 01:33:13 INFO  compiling hello (1 scala source)
+2020.07.07 01:33:13 INFO  compiling hello (1 scala source)
+2020.07.07 01:33:13 INFO  time: compiled hello in 42ms
+2020.07.07 01:33:13 INFO  time: compiled hello in 48ms
+2020.07.07 01:33:48 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 42m 47.813s)
+2020.07.07 01:33:48 INFO  compiling hello (1 scala source)
+2020.07.07 01:33:48 INFO  compiling hello (1 scala source)
+2020.07.07 01:33:50 INFO  time: compiled hello in 1.11s
+2020.07.07 01:33:50 INFO  time: compiled hello in 1.12s
+2020.07.07 01:33:52 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 42m 50.958s)
+2020.07.07 01:36:08 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:08 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 44m 50.119s)
+2020.07.07 01:36:08 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:08 INFO  time: compiled hello in 0.96s
+2020.07.07 01:36:08 INFO  time: compiled hello in 0.95s
+2020.07.07 01:36:11 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 44m 53.088s)
+2020.07.07 01:36:14 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 45m 13.469s)
+2020.07.07 01:36:14 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 13.483s)
+2020.07.07 01:36:14 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:14 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:14 INFO  time: compiled hello in 0.72s
+2020.07.07 01:36:14 INFO  time: compiled hello in 0.73s
+2020.07.07 01:36:17 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 44m 59.126s)
+2020.07.07 01:36:17 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 16.247s)
+2020.07.07 01:36:17 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:17 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:17 INFO  time: compiled hello in 0.67s
+2020.07.07 01:36:17 INFO  time: compiled hello in 0.67s
+2020.07.07 01:36:20 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 45m 1.843s)
+2020.07.07 01:36:20 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 1.866s)
+2020.07.07 01:36:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:20 INFO  time: compiled hello in 55ms
+2020.07.07 01:36:20 INFO  time: compiled hello in 59ms
+2020.07.07 01:36:22 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 45m 4.602s)
+2020.07.07 01:36:22 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 21.723s)
+2020.07.07 01:36:22 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:22 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:22 INFO  time: compiled hello in 0.74s
+2020.07.07 01:36:22 INFO  time: compiled hello in 0.75s
+2020.07.07 01:36:28 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 10.517s)
+2020.07.07 01:36:28 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:28 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:28 INFO  time: compiled hello in 0.15s
+2020.07.07 01:36:28 INFO  time: compiled hello in 0.15s
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in Option[<error>]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 954, 954, 970)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in Option[<error>]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 954, 954, 963)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in Option[<error>]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 954, 954, 964)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in Option[<error>]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 954, 954, 965)
+2020.07.07 01:36:30 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:30 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 29.811s)
+2020.07.07 01:36:30 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:30 INFO  time: compiled hello in 0.11s
+2020.07.07 01:36:30 INFO  time: compiled hello in 0.12s
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in Option[String]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 954, 954, 968)
+2020.07.07 01:36:34 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 45m 33.261s)
+2020.07.07 01:36:34 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 33.274s)
+2020.07.07 01:36:34 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:34 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:34 INFO  time: compiled hello in 92ms
+2020.07.07 01:36:34 INFO  time: compiled hello in 96ms
+2020.07.07 01:36:36 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 18.304s)
+2020.07.07 01:36:36 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:36 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:36 INFO  time: compiled hello in 0.7s
+2020.07.07 01:36:36 INFO  time: compiled hello in 0.7s
+2020.07.07 01:36:39 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:39 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 38.148s)
+2020.07.07 01:36:39 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:39 INFO  time: compiled hello in 99ms2020.07.07 01:36:39 INFO  time: compiled hello in 0.11s
+
+2020.07.07 01:36:41 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 45m 23.148s)
+2020.07.07 01:36:41 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 23.154s)
+2020.07.07 01:36:41 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:41 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:41 INFO  time: compiled hello in 0.71s
+2020.07.07 01:36:41 INFO  time: compiled hello in 0.71s
+2020.07.07 01:36:44 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 45m 42.992s)
+2020.07.07 01:36:44 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 42.999s)
+2020.07.07 01:36:44 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:44 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:44 INFO  time: compiled hello in 0.62s
+2020.07.07 01:36:44 INFO  time: compiled hello in 0.63s
+2020.07.07 01:36:46 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 45.77s)
+2020.07.07 01:36:46 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:46 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:46 INFO  time: compiled hello in 0.79s
+2020.07.07 01:36:46 INFO  time: compiled hello in 0.79s
+2020.07.07 01:36:49 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 31.478s)
+2020.07.07 01:36:51 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 50.619s)
+2020.07.07 01:36:51 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:51 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:51 INFO  time: compiled hello in 0.7s
+2020.07.07 01:36:51 INFO  time: compiled hello in 0.71s
+2020.07.07 01:36:56 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 45m 38.597s)
+2020.07.07 01:36:56 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:56 INFO  compiling hello (1 scala source)
+2020.07.07 01:36:56 INFO  time: compiled hello in 0.77s
+2020.07.07 01:36:56 INFO  time: compiled hello in 0.77s
+2020.07.07 01:37:06 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 46m 5.77s)
+2020.07.07 01:37:06 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 5.782s)
+2020.07.07 01:37:06 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:06 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:06 INFO  time: compiled hello in 0.74s
+2020.07.07 01:37:06 INFO  time: compiled hello in 0.74s
+2020.07.07 01:37:09 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 8.558s)
+2020.07.07 01:37:16 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 46m 14.958s)
+2020.07.07 01:37:16 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 14.973s)
+2020.07.07 01:37:16 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:16 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:16 INFO  time: compiled hello in 69ms
+2020.07.07 01:37:16 INFO  time: compiled hello in 73ms
+2020.07.07 01:37:18 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:18 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 17.072s)
+2020.07.07 01:37:18 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:18 INFO  time: compiled hello in 85ms
+2020.07.07 01:37:18 INFO  time: compiled hello in 93ms
+2020.07.07 01:37:20 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 46m 2.064s)
+2020.07.07 01:37:20 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 19.185s)
+2020.07.07 01:37:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:20 INFO  time: compiled hello in 0.11s
+2020.07.07 01:37:20 INFO  time: compiled hello in 0.12s
+2020.07.07 01:37:22 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 21.331s)
+2020.07.07 01:37:22 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:22 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:22 INFO  time: compiled hello in 89ms
+2020.07.07 01:37:22 INFO  time: compiled hello in 92ms
+2020.07.07 01:37:25 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 46m 24.25s)
+2020.07.07 01:37:25 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 24.266s)
+2020.07.07 01:37:25 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:25 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:25 INFO  time: compiled hello in 0.14s
+2020.07.07 01:37:25 INFO  time: compiled hello in 0.14s
+2020.07.07 01:37:27 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 26.44s)
+2020.07.07 01:37:27 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:27 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:27 INFO  time: compiled hello in 97ms
+2020.07.07 01:37:27 INFO  time: compiled hello in 0.1s
+2020.07.07 01:37:29 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 11.457s)
+2020.07.07 01:37:29 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:29 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:29 INFO  time: compiled hello in 92ms
+2020.07.07 01:37:29 INFO  time: compiled hello in 94ms
+2020.07.07 01:37:30 INFO  C:\Users\gjuoun\Code\Sbt\test\src\main\scala\example\Hello.scala:51:6: stale bloop error: value === is not a member of Option[String]
+  if(value3 === "None"){
+     ^^^^^^^^^^
+2020.07.07 01:37:30 INFO  C:\Users\gjuoun\Code\Sbt\test\src\main\scala\example\Hello.scala:51:6: stale bloop error: value === is not a member of Option[String]
+  if(value3 === "None"){
+     ^^^^^^^^^^
+2020.07.07 01:37:32 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 46m 31.897s)
+2020.07.07 01:37:32 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 14.798s)
+2020.07.07 01:37:32 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:32 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:32 INFO  time: compiled hello in 0.15s
+2020.07.07 01:37:32 INFO  time: compiled hello in 0.16s
+2020.07.07 01:37:35 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 34.111s)
+2020.07.07 01:37:35 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:35 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:35 INFO  time: compiled hello in 92ms
+2020.07.07 01:37:35 INFO  time: compiled hello in 93ms
+2020.07.07 01:37:37 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 46m 19.123s)
+2020.07.07 01:37:37 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 19.141s)
+2020.07.07 01:37:37 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:37 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:37 INFO  time: compiled hello in 84ms
+2020.07.07 01:37:37 INFO  time: compiled hello in 86ms
+2020.07.07 01:37:40 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 46m 39.575s)
+2020.07.07 01:37:40 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 22.467s)
+2020.07.07 01:37:40 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:40 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:40 INFO  time: compiled hello in 0.16s
+2020.07.07 01:37:40 INFO  time: compiled hello in 0.16s
+2020.07.07 01:37:42 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 46m 24.645s)
+2020.07.07 01:37:42 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 46m 24.65s)
+2020.07.07 01:37:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:37:42 INFO  time: compiled hello in 86ms
+2020.07.07 01:37:42 INFO  time: compiled hello in 88ms
+2020.07.07 01:38:07 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 46m 49.207s)
+2020.07.07 01:38:07 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 47m 6.333s)
+2020.07.07 01:38:07 INFO  compiling hello (1 scala source)
+2020.07.07 01:38:07 INFO  compiling hello (1 scala source)
+2020.07.07 01:38:07 INFO  time: compiled hello in 0.14s
+2020.07.07 01:38:07 INFO  time: compiled hello in 0.15s
+2020.07.07 01:38:09 INFO  compiling hello (1 scala source)
+2020.07.07 01:38:09 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 47m 8.516s)
+2020.07.07 01:38:09 INFO  compiling hello (1 scala source)
+2020.07.07 01:38:09 INFO  time: compiled hello in 97ms
+2020.07.07 01:38:09 INFO  time: compiled hello in 0.11s
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in Option[String]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 1017, 1017, 1031)
+2020.07.07 01:41:32 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 50m 14.611s)
+2020.07.07 01:41:32 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 50m 31.737s)
+2020.07.07 01:41:32 INFO  compiling hello (1 scala source)
+2020.07.07 01:41:32 INFO  compiling hello (1 scala source)
+2020.07.07 01:41:32 INFO  time: compiled hello in 0.15s
+2020.07.07 01:41:32 INFO  time: compiled hello in 0.15s
+2020.07.07 01:41:34 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 50m 16.8s)
+2020.07.07 01:41:35 INFO  compiling hello (1 scala source)
+2020.07.07 01:41:34 INFO  compiling hello (1 scala source)
+2020.07.07 01:41:35 INFO  time: compiled hello in 98ms
+2020.07.07 01:41:34 INFO  time: compiled hello in 0.1s
+2020.07.07 01:41:37 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 50m 19.599s)
+2020.07.07 01:41:37 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 50m 36.729s)
+2020.07.07 01:41:37 INFO  compiling hello (1 scala source)
+2020.07.07 01:41:37 INFO  compiling hello (1 scala source)
+2020.07.07 01:41:37 INFO  time: compiled hello in 0.15s
+2020.07.07 01:41:37 INFO  time: compiled hello in 0.15s
+2020.07.07 01:41:39 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 50m 38.91s)
+2020.07.07 01:41:39 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 50m 38.913s)
+2020.07.07 01:41:39 INFO  compiling hello (1 scala source)
+2020.07.07 01:41:39 INFO  compiling hello (1 scala source)
+2020.07.07 01:41:39 INFO  time: compiled hello in 83ms
+2020.07.07 01:41:39 INFO  time: compiled hello in 87ms
+2020.07.07 01:42:08 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 51m 7.328s)
+2020.07.07 01:42:08 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 51m 7.344s)
+2020.07.07 01:42:08 INFO  compiling hello (1 scala source)
+2020.07.07 01:42:08 INFO  compiling hello (1 scala source)
+2020.07.07 01:42:08 INFO  time: compiled hello in 0.77s
+2020.07.07 01:42:08 INFO  time: compiled hello in 0.77s
+2020.07.07 01:42:11 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 51m 10.144s)
+2020.07.07 01:42:17 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 50m 59.726s)
+2020.07.07 01:42:17 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 51m 16.853s)
+2020.07.07 01:42:17 INFO  compiling hello (1 scala source)
+2020.07.07 01:42:17 INFO  compiling hello (1 scala source)
+2020.07.07 01:42:17 INFO  time: compiled hello in 66ms
+2020.07.07 01:42:17 INFO  time: compiled hello in 74ms
+2020.07.07 01:42:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:42:20 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 51m 1.865s)
+2020.07.07 01:42:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:42:20 INFO  time: compiled hello in 97ms
+2020.07.07 01:42:20 INFO  time: compiled hello in 98ms
+2020.07.07 01:42:30 INFO  compiling hello (1 scala source)
+2020.07.07 01:42:30 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 51m 29.011s)
+2020.07.07 01:42:30 INFO  compiling hello (1 scala source)
+2020.07.07 01:42:30 INFO  time: compiled hello in 0.75s
+2020.07.07 01:42:30 INFO  time: compiled hello in 0.75s
+2020.07.07 01:42:32 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 51m 31.782s)
+2020.07.07 01:42:35 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 51m 17.005s)
+2020.07.07 01:42:35 INFO  compiling hello (1 scala source)
+2020.07.07 01:42:35 INFO  compiling hello (1 scala source)
+2020.07.07 01:42:35 INFO  time: compiled hello in 0.73s
+2020.07.07 01:42:35 INFO  time: compiled hello in 0.73s
+2020.07.07 01:42:37 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 51m 19.766s)
+2020.07.07 01:42:37 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 51m 19.772s)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in Option[String]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 1017, 1017, 1031)
+2020.07.07 01:43:27 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 52m 9.66s)
+2020.07.07 01:43:27 INFO  compiling hello (1 scala source)
+2020.07.07 01:43:27 INFO  compiling hello (1 scala source)
+2020.07.07 01:43:27 INFO  time: compiled hello in 0.16s
+2020.07.07 01:43:27 INFO  time: compiled hello in 0.16s
+2020.07.07 01:43:30 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 52m 28.952s)
+2020.07.07 01:43:30 INFO  compiling hello (1 scala source)
+2020.07.07 01:43:30 INFO  compiling hello (1 scala source)
+2020.07.07 01:43:30 INFO  time: compiled hello in 0.12s
+2020.07.07 01:43:30 INFO  time: compiled hello in 0.12s
+2020.07.07 01:44:25 INFO  compiling hello (1 scala source)
+2020.07.07 01:44:25 INFO  time: compiled hello in 0.13s
+2020.07.07 01:44:38 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 53m 19.893s)
+2020.07.07 01:44:38 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 53m 19.897s)
+2020.07.07 01:44:38 INFO  compiling hello (1 scala source)
+2020.07.07 01:44:38 INFO  compiling hello (1 scala source)
+2020.07.07 01:44:38 INFO  time: compiled hello in 0.14s
+2020.07.07 01:44:38 INFO  time: compiled hello in 0.14s
+2020.07.07 01:44:40 INFO  compiling hello (1 scala source)
+2020.07.07 01:44:40 INFO  time: compiled hello in 0.11s
+2020.07.07 01:47:00 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:00 INFO  time: compiled hello in 0.14s
+2020.07.07 01:47:04 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 55m 46.761s)
+2020.07.07 01:47:04 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 3.888s)
+2020.07.07 01:47:04 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:04 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:04 INFO  time: compiled hello in 0.12s
+2020.07.07 01:47:04 INFO  time: compiled hello in 0.12s
+2020.07.07 01:47:07 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 6.062s)
+2020.07.07 01:47:07 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:07 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:07 INFO  time: compiled hello in 42ms
+2020.07.07 01:47:07 INFO  time: compiled hello in 44ms
+2020.07.07 01:47:18 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 56m 0.237s)
+2020.07.07 01:47:18 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 0.242s)
+2020.07.07 01:47:18 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:18 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:18 INFO  time: compiled hello in 0.75s
+2020.07.07 01:47:18 INFO  time: compiled hello in 0.76s
+2020.07.07 01:47:21 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 56m 3.039s)
+2020.07.07 01:47:21 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 3.05s)
+2020.07.07 01:47:26 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 56m 8.711s)
+2020.07.07 01:47:26 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 8.728s)
+2020.07.07 01:47:26 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:26 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:28 INFO  time: compiled hello in 1.1s
+2020.07.07 01:47:28 INFO  time: compiled hello in 1.11s
+2020.07.07 01:47:30 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 28.975s)
+2020.07.07 01:47:40 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 56m 38.976s)
+2020.07.07 01:47:40 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 38.983s)
+2020.07.07 01:47:40 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:40 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:40 INFO  time: compiled hello in 0.13s
+2020.07.07 01:47:40 INFO  time: compiled hello in 0.13s
+2020.07.07 01:47:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:42 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 24.049s)
+2020.07.07 01:47:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:42 INFO  time: compiled hello in 0.2s
+2020.07.07 01:47:42 INFO  time: compiled hello in 0.19s
+2020.07.07 01:47:45 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 56m 44.127s)
+2020.07.07 01:47:45 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 27.026s)
+2020.07.07 01:47:45 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:45 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:45 INFO  time: compiled hello in 60ms
+2020.07.07 01:47:45 INFO  time: compiled hello in 63ms
+2020.07.07 01:47:47 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:47 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 46.223s)
+2020.07.07 01:47:47 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:47 INFO  time: compiled hello in 65ms
+2020.07.07 01:47:47 INFO  time: compiled hello in 72ms
+2020.07.07 01:47:49 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 48.316s)
+2020.07.07 01:47:49 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:49 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:49 INFO  time: compiled hello in 0.12s
+2020.07.07 01:47:49 INFO  time: compiled hello in 0.12s
+2020.07.07 01:47:51 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 56m 50.762s)
+2020.07.07 01:47:51 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 50.778s)
+2020.07.07 01:47:51 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:51 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:51 INFO  time: compiled hello in 0.67s
+2020.07.07 01:47:51 INFO  time: compiled hello in 0.67s
+2020.07.07 01:47:54 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 36.359s)
+2020.07.07 01:47:56 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:56 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 38.389s)
+2020.07.07 01:47:56 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:56 INFO  time: compiled hello in 0.66s
+2020.07.07 01:47:56 INFO  time: compiled hello in 0.67s
+2020.07.07 01:47:59 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 41.078s)
+2020.07.07 01:47:59 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:59 INFO  compiling hello (1 scala source)
+2020.07.07 01:47:59 INFO  time: compiled hello in 0.11s
+2020.07.07 01:47:59 INFO  time: compiled hello in 0.11s
+2020.07.07 01:48:01 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:01 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 57m 0.444s)
+2020.07.07 01:48:01 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:01 INFO  time: compiled hello in 0.78s
+2020.07.07 01:48:01 INFO  time: compiled hello in 0.8s
+2020.07.07 01:48:04 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 57m 3.246s)
+2020.07.07 01:48:04 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:04 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:04 INFO  time: compiled hello in 0.13s
+2020.07.07 01:48:04 INFO  time: compiled hello in 0.13s
+2020.07.07 01:48:06 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 57m 5.399s)
+2020.07.07 01:48:06 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:06 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:06 INFO  time: compiled hello in 0.12s
+2020.07.07 01:48:06 INFO  time: compiled hello in 0.13s
+2020.07.07 01:48:08 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 57m 7.547s)
+2020.07.07 01:48:08 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:08 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:08 INFO  time: compiled hello in 0.14s
+2020.07.07 01:48:08 INFO  time: compiled hello in 0.14s
+2020.07.07 01:48:10 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 52.73s)
+2020.07.07 01:48:10 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:10 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:10 INFO  time: compiled hello in 0.76s
+2020.07.07 01:48:10 INFO  time: compiled hello in 0.77s
+2020.07.07 01:48:13 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 56m 55.525s)
+2020.07.07 01:48:20 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 57m 19.508s)
+2020.07.07 01:48:20 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 57m 19.522s)
+2020.07.07 01:48:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:20 INFO  time: compiled hello in 0.74s
+2020.07.07 01:48:20 INFO  time: compiled hello in 0.75s
+2020.07.07 01:48:23 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 57m 5.177s)
+2020.07.07 01:48:37 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 57m 36.743s)
+2020.07.07 01:48:37 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 57m 19.641s)
+2020.07.07 01:48:37 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:37 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:37 INFO  time: compiled hello in 0.73s
+2020.07.07 01:48:37 INFO  time: compiled hello in 0.73s
+2020.07.07 01:48:40 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 57m 22.404s)
+2020.07.07 01:48:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:42 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 57m 24.429s)
+2020.07.07 01:48:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:48:42 INFO  time: compiled hello in 0.62s
+2020.07.07 01:48:42 INFO  time: compiled hello in 0.61s
+2020.07.07 01:48:45 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 57m 44.171s)
+2020.07.07 01:48:45 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 57m 27.064s)
+2020.07.07 01:49:32 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 58m 14.37s)
+2020.07.07 01:49:32 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 58m 14.385s)
+2020.07.07 01:49:32 INFO  compiling hello (1 scala source)
+2020.07.07 01:49:32 INFO  compiling hello (1 scala source)
+2020.07.07 01:49:32 INFO  time: compiled hello in 65ms
+2020.07.07 01:49:32 INFO  time: compiled hello in 67ms
+2020.07.07 01:49:34 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 58m 16.502s)
+2020.07.07 01:49:34 INFO  compiling hello (1 scala source)
+2020.07.07 01:49:34 INFO  compiling hello (1 scala source)
+2020.07.07 01:49:34 INFO  time: compiled hello in 0.11s
+2020.07.07 01:49:34 INFO  time: compiled hello in 0.11s
+2020.07.07 01:49:38 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 58m 19.842s)
+2020.07.07 01:49:38 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 58m 36.965s)
+2020.07.07 01:49:38 INFO  compiling hello (1 scala source)
+2020.07.07 01:49:38 INFO  compiling hello (1 scala source)
+2020.07.07 01:49:38 INFO  time: compiled hello in 0.14s
+2020.07.07 01:49:38 INFO  time: compiled hello in 0.15s
+2020.07.07 01:49:40 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 58m 22.019s)
+2020.07.07 01:49:40 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 58m 22.028s)
+2020.07.07 01:49:40 INFO  compiling hello (1 scala source)
+2020.07.07 01:49:40 INFO  compiling hello (1 scala source)
+2020.07.07 01:49:40 INFO  time: compiled hello in 0.11s
+2020.07.07 01:49:40 INFO  time: compiled hello in 0.11s
+2020.07.07 01:49:45 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 1h 58m 27.102s)
+2020.07.07 01:49:45 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 58m 27.109s)
+2020.07.07 01:49:45 INFO  compiling hello (1 scala source)
+2020.07.07 01:49:45 INFO  compiling hello (1 scala source)
+2020.07.07 01:49:45 INFO  time: compiled hello in 0.68s
+2020.07.07 01:49:45 INFO  time: compiled hello in 0.68s
+2020.07.07 01:49:48 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 1h 58m 29.816s)
+2020.07.07 01:53:17 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 16.847s)
+2020.07.07 01:53:17 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:17 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:17 INFO  time: compiled hello in 0.74s
+2020.07.07 01:53:17 INFO  time: compiled hello in 0.74s
+2020.07.07 01:53:20 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 2.535s)
+2020.07.07 01:53:31 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 2m 13.111s)
+2020.07.07 01:53:31 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 30.233s)
+2020.07.07 01:53:31 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:31 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:31 INFO  time: compiled hello in 70ms
+2020.07.07 01:53:31 INFO  time: compiled hello in 72ms
+2020.07.07 01:53:33 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:33 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 32.328s)
+2020.07.07 01:53:33 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:33 INFO  time: compiled hello in 51ms
+2020.07.07 01:53:33 INFO  time: compiled hello in 56ms
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in List[<error>]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 1159, 1159, 1173)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in List[<error>]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 1159, 1159, 1166)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in List[<error>]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 1159, 1159, 1173)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in List[<error>]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 1159, 1159, 1166)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in List[<error>]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 1159, 1159, 1167)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in List[String]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 1159, 1159, 1171)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in List[String]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 1159, 1159, 1172)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in List[String]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 1159, 1159, 1171)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in List[String]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 1159, 1159, 1171)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in List[String]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 1159, 1159, 1171)
+2020.07.07 01:53:42 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 2m 40.979s)
+2020.07.07 01:53:42 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 40.994s)
+2020.07.07 01:53:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:42 INFO  time: compiled hello in 0.16s
+2020.07.07 01:53:42 INFO  time: compiled hello in 0.16s
+2020.07.07 01:53:44 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 2m 26.074s)
+2020.07.07 01:53:44 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 26.08s)
+2020.07.07 01:53:44 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:44 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:44 INFO  time: compiled hello in 96ms
+2020.07.07 01:53:44 INFO  time: compiled hello in 99ms
+2020.07.07 01:53:46 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 2m 45.318s)
+2020.07.07 01:53:46 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 45.324s)
+2020.07.07 01:53:46 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:46 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:46 INFO  time: compiled hello in 0.11s
+2020.07.07 01:53:46 INFO  time: compiled hello in 0.11s
+2020.07.07 01:53:48 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 47.465s)
+2020.07.07 01:53:48 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:48 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:48 INFO  time: compiled hello in 0.93s
+2020.07.07 01:53:48 INFO  time: compiled hello in 0.93s
+2020.07.07 01:53:53 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 2m 52.337s)
+2020.07.07 01:53:53 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 52.345s)
+2020.07.07 01:53:53 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:53 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:53 INFO  time: compiled hello in 71ms
+2020.07.07 01:53:53 INFO  time: compiled hello in 74ms
+2020.07.07 01:53:55 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:55 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 37.338s)
+2020.07.07 01:53:55 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:55 INFO  time: compiled hello in 43ms
+2020.07.07 01:53:55 INFO  time: compiled hello in 40ms
+2020.07.07 01:53:57 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 56.508s)
+2020.07.07 01:53:57 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:57 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:57 INFO  time: compiled hello in 0.13s
+2020.07.07 01:53:57 INFO  time: compiled hello in 0.13s
+2020.07.07 01:53:59 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 2m 58.66s)
+2020.07.07 01:53:59 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 58.668s)
+2020.07.07 01:53:59 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:59 INFO  compiling hello (1 scala source)
+2020.07.07 01:53:59 INFO  time: compiled hello in 0.1s
+2020.07.07 01:53:59 INFO  time: compiled hello in 0.1s
+2020.07.07 01:54:09 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:09 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 51.139s)
+2020.07.07 01:54:09 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:09 INFO  time: compiled hello in 0.15s
+2020.07.07 01:54:09 INFO  time: compiled hello in 0.15s
+2020.07.07 01:54:11 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 2m 53.303s)
+2020.07.07 01:54:11 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 2m 53.309s)
+2020.07.07 01:54:11 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:11 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:11 INFO  time: compiled hello in 0.12s
+2020.07.07 01:54:11 INFO  time: compiled hello in 0.12s
+2020.07.07 01:54:13 INFO  C:\Users\gjuoun\Code\Sbt\test\src\main\scala\example\Hello.scala:55:3: stale bloop error: value update is not a member of List[String]
+  myEmptyList(0) = "no"
+  ^^^^^^^^^^^
+2020.07.07 01:54:13 INFO  C:\Users\gjuoun\Code\Sbt\test\src\main\scala\example\Hello.scala:55:3: stale bloop error: value update is not a member of List[String]
+  myEmptyList(0) = "no"
+  ^^^^^^^^^^^
+2020.07.07 01:54:16 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 3m 15.041s)
+2020.07.07 01:54:16 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 3m 15.053s)
+2020.07.07 01:54:16 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:16 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:16 INFO  time: compiled hello in 87ms
+2020.07.07 01:54:16 INFO  time: compiled hello in 87ms
+2020.07.07 01:54:18 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:18 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 3m 17.168s)
+2020.07.07 01:54:18 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:18 INFO  time: compiled hello in 49ms
+2020.07.07 01:54:18 INFO  time: compiled hello in 56ms
+2020.07.07 01:54:20 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 3m 19.478s)
+2020.07.07 01:54:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:20 WARN  there was one deprecation warning (since 2.11.0); re-run with -deprecation for details
+2020.07.07 01:54:20 WARN  there was one deprecation warning (since 2.11.0); re-run with -deprecation for details
+2020.07.07 01:54:20 INFO  time: compiled hello in 0.72s
+2020.07.07 01:54:20 INFO  time: compiled hello in 0.72s
+2020.07.07 01:54:25 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:25 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 3m 7.145s)
+2020.07.07 01:54:25 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:25 INFO  time: compiled hello in 0.68s
+2020.07.07 01:54:25 INFO  time: compiled hello in 0.69s
+2020.07.07 01:54:28 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 3m 9.855s)
+2020.07.07 01:54:28 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:28 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:28 INFO  time: compiled hello in 0.63s
+2020.07.07 01:54:28 INFO  time: compiled hello in 0.63s
+2020.07.07 01:54:31 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 3m 13.497s)
+2020.07.07 01:54:31 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 3m 13.505s)
+2020.07.07 01:54:31 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:31 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:31 INFO  time: compiled hello in 0.9s
+2020.07.07 01:54:31 INFO  time: compiled hello in 0.9s
+2020.07.07 01:54:34 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 3m 33.55s)
+2020.07.07 01:54:34 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 3m 33.557s)
+2020.07.07 01:54:37 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 3m 36.196s)
+2020.07.07 01:54:37 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:37 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:37 INFO  time: compiled hello in 0.8s
+2020.07.07 01:54:37 INFO  time: compiled hello in 0.81s
+2020.07.07 01:54:40 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 3m 21.926s)
+2020.07.07 01:54:58 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 3m 57.844s)
+2020.07.07 01:54:58 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 3m 57.85s)
+2020.07.07 01:54:58 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:58 INFO  compiling hello (1 scala source)
+2020.07.07 01:54:58 INFO  time: compiled hello in 0.74s
+2020.07.07 01:54:58 INFO  time: compiled hello in 0.74s
+2020.07.07 01:55:01 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 3m 43.496s)
+2020.07.07 01:55:05 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 4m 3.937s)
+2020.07.07 01:55:05 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 3m 46.835s)
+2020.07.07 01:55:05 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:05 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:05 INFO  time: compiled hello in 0.73s
+2020.07.07 01:55:05 INFO  time: compiled hello in 0.73s
+2020.07.07 01:55:07 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 4m 6.703s)
+2020.07.07 01:55:07 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:07 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:07 INFO  time: compiled hello in 0.7s
+2020.07.07 01:55:07 INFO  time: compiled hello in 0.7s
+2020.07.07 01:55:23 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 4m 5.178s)
+2020.07.07 01:55:23 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:23 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:23 INFO  time: compiled hello in 0.14s
+2020.07.07 01:55:23 INFO  time: compiled hello in 0.15s
+2020.07.07 01:55:25 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 4m 24.478s)
+2020.07.07 01:55:25 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:25 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:25 INFO  time: compiled hello in 83ms
+2020.07.07 01:55:25 INFO  time: compiled hello in 85ms
+2020.07.07 01:55:28 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 4m 9.831s)
+2020.07.07 01:55:28 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 4m 9.846s)
+2020.07.07 01:55:28 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:28 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:28 INFO  time: compiled hello in 0.15s
+2020.07.07 01:55:28 INFO  time: compiled hello in 0.16s
+2020.07.07 01:55:30 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 4m 29.142s)
+2020.07.07 01:55:30 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:30 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:30 INFO  time: compiled hello in 95ms
+2020.07.07 01:55:30 INFO  time: compiled hello in 96ms
+2020.07.07 01:55:34 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 4m 33.197s)
+2020.07.07 01:55:34 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 4m 33.204s)
+2020.07.07 01:55:34 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:34 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:34 INFO  time: compiled hello in 0.73s
+2020.07.07 01:55:34 INFO  time: compiled hello in 0.73s
+2020.07.07 01:55:37 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 4m 18.852s)
+2020.07.07 01:55:39 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 4m 38.115s)
+2020.07.07 01:55:39 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 4m 21.008s)
+2020.07.07 01:55:39 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:39 INFO  compiling hello (1 scala source)
+2020.07.07 01:55:39 INFO  time: compiled hello in 0.75s
+2020.07.07 01:55:39 INFO  time: compiled hello in 0.75s
+2020.07.07 01:55:41 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 4m 23.786s)
+2020.07.07 01:56:05 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 4m 47.595s)
+2020.07.07 01:56:05 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 4m 47.606s)
+2020.07.07 01:56:05 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:05 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:05 INFO  time: compiled hello in 0.15s
+2020.07.07 01:56:05 INFO  time: compiled hello in 0.15s
+2020.07.07 01:56:07 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 5m 6.917s)
+2020.07.07 01:56:08 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:07 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:07 INFO  time: compiled hello in 86ms
+2020.07.07 01:56:08 INFO  time: compiled hello in 87ms
+2020.07.07 01:56:10 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 5m 9.029s)
+2020.07.07 01:56:10 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 5m 9.035s)
+2020.07.07 01:56:10 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:10 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:10 INFO  time: compiled hello in 0.11s
+2020.07.07 01:56:10 INFO  time: compiled hello in 0.11s
+2020.07.07 01:56:12 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 4m 54.745s)
+2020.07.07 01:56:12 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 4m 54.754s)
+2020.07.07 01:56:17 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 5m 16.831s)
+2020.07.07 01:56:17 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 5m 16.841s)
+2020.07.07 01:56:17 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:17 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:17 INFO  time: compiled hello in 0.15s
+2020.07.07 01:56:17 INFO  time: compiled hello in 0.18s
+2020.07.07 01:56:20 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 5m 19.02s)
+2020.07.07 01:56:20 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 5m 19.026s)
+2020.07.07 01:56:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:20 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:20 INFO  time: compiled hello in 84ms
+2020.07.07 01:56:20 INFO  time: compiled hello in 86ms
+2020.07.07 01:56:22 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:22 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 5m 4.03s)
+2020.07.07 01:56:22 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:22 INFO  time: compiled hello in 0.11s
+2020.07.07 01:56:22 INFO  time: compiled hello in 95ms
+2020.07.07 01:56:28 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 5m 10.194s)
+2020.07.07 01:56:28 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 5m 27.323s)
+Jul 07, 2020 1:56:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6172
+2020.07.07 01:56:33 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 5m 32.636s)
+2020.07.07 01:56:33 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 5m 15.562s)
+2020.07.07 01:56:33 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:33 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:33 INFO  time: compiled hello in 0.15s
+2020.07.07 01:56:33 INFO  time: compiled hello in 0.15s
+2020.07.07 01:56:35 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 5m 17.753s)
+2020.07.07 01:56:35 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:35 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:35 INFO  time: compiled hello in 83ms
+2020.07.07 01:56:35 INFO  time: compiled hello in 86ms
+2020.07.07 01:56:40 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 5m 22.1s)
+2020.07.07 01:56:40 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:40 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:40 INFO  time: compiled hello in 0.15s
+2020.07.07 01:56:40 INFO  time: compiled hello in 0.14s
+2020.07.07 01:56:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:42 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 5m 41.398s)
+2020.07.07 01:56:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:42 INFO  time: compiled hello in 0.11s
+2020.07.07 01:56:42 INFO  time: compiled hello in 0.13s
+2020.07.07 01:56:47 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 5m 28.952s)
+2020.07.07 01:56:47 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 5m 28.965s)
+2020.07.07 01:56:47 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:47 INFO  compiling hello (1 scala source)
+2020.07.07 01:56:47 INFO  time: compiled hello in 0.81s
+2020.07.07 01:56:47 INFO  time: compiled hello in 0.81s
+2020.07.07 01:56:50 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 5m 31.824s)
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in List[String]RangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 1159, 1159, 1171)
+2020.07.07 01:58:36 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 7m 35.791s)
+2020.07.07 01:58:36 INFO  compiling hello (1 scala source)
+2020.07.07 01:58:36 INFO  compiling hello (1 scala source)
+2020.07.07 01:58:36 INFO  time: compiled hello in 76ms
+2020.07.07 01:58:36 INFO  time: compiled hello in 78ms
+2020.07.07 01:58:38 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 7m 20.791s)
+2020.07.07 01:58:38 INFO  compiling hello (1 scala source)
+2020.07.07 01:58:38 INFO  compiling hello (1 scala source)
+2020.07.07 01:58:38 INFO  time: compiled hello in 47ms
+2020.07.07 01:58:38 INFO  time: compiled hello in 51ms
+2020.07.07 01:58:42 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 7m 41.847s)
+2020.07.07 01:58:42 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 7m 41.86s)
+2020.07.07 01:58:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:58:42 INFO  compiling hello (1 scala source)
+2020.07.07 01:58:42 INFO  time: compiled hello in 0.88s
+2020.07.07 01:58:42 INFO  time: compiled hello in 0.88s
+2020.07.07 01:58:45 INFO  compiling hello (1 scala source)
+2020.07.07 01:58:45 INFO  time: compiled hello in 0.47s
+2020.07.07 01:58:47 INFO  compiling hello (1 scala source)
+2020.07.07 01:58:47 INFO  time: compiled hello in 0.1s
+2020.07.07 01:58:48 INFO  compiling hello (1 scala source)
+2020.07.07 01:58:48 INFO  time: compiled hello in 66ms
+2020.07.07 01:58:51 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 7m 50.065s)
+2020.07.07 01:58:51 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 7m 50.073s)
+2020.07.07 01:58:51 INFO  compiling hello (1 scala source)
+2020.07.07 01:58:51 INFO  compiling hello (1 scala source)
+2020.07.07 01:58:51 INFO  time: compiled hello in 0.77s
+2020.07.07 01:58:51 INFO  time: compiled hello in 0.77s
+2020.07.07 01:59:06 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 8m 4.978s)
+2020.07.07 01:59:06 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 8m 4.986s)
+2020.07.07 01:59:06 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:06 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:06 INFO  time: compiled hello in 0.14s
+2020.07.07 01:59:06 INFO  time: compiled hello in 0.14s
+2020.07.07 01:59:08 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:08 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 8m 7.159s)
+2020.07.07 01:59:08 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:08 INFO  time: compiled hello in 0.11s
+2020.07.07 01:59:08 INFO  time: compiled hello in 0.12s
+2020.07.07 01:59:10 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 7m 52.173s)
+2020.07.07 01:59:10 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:10 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:10 INFO  time: compiled hello in 85ms
+2020.07.07 01:59:10 INFO  time: compiled hello in 87ms
+2020.07.07 01:59:19 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 8m 1.565s)
+2020.07.07 01:59:19 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 8m 1.575s)
+2020.07.07 01:59:19 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:19 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:19 INFO  time: compiled hello in 0.87s
+2020.07.07 01:59:19 INFO  time: compiled hello in 0.86s
+2020.07.07 01:59:22 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 8m 4.481s)
+2020.07.07 01:59:46 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 8m 45.394s)
+2020.07.07 01:59:46 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 8m 45.409s)
+2020.07.07 01:59:46 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:46 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:46 INFO  time: compiled hello in 0.76s
+2020.07.07 01:59:46 INFO  time: compiled hello in 0.76s
+2020.07.07 01:59:49 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 8m 48.186s)
+2020.07.07 01:59:53 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 8m 52.083s)
+2020.07.07 01:59:53 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:53 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:53 INFO  time: compiled hello in 0.9s
+2020.07.07 01:59:53 INFO  time: compiled hello in 0.9s
+2020.07.07 01:59:56 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 8m 55.024s)
+2020.07.07 01:59:56 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:56 INFO  compiling hello (1 scala source)
+2020.07.07 01:59:56 INFO  time: compiled hello in 0.71s
+2020.07.07 01:59:56 INFO  time: compiled hello in 0.71s
+2020.07.07 02:00:12 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 9m 11.846s)
+2020.07.07 02:00:12 INFO  compiling hello (1 scala source)
+2020.07.07 02:00:12 INFO  compiling hello (1 scala source)
+2020.07.07 02:00:12 INFO  time: compiled hello in 0.74s
+2020.07.07 02:00:12 INFO  time: compiled hello in 0.74s
+2020.07.07 02:00:15 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 8m 57.504s)
+2020.07.07 02:00:15 INFO  compiling hello (1 scala source)
+2020.07.07 02:00:15 INFO  compiling hello (1 scala source)
+2020.07.07 02:00:15 INFO  time: compiled hello in 93ms
+2020.07.07 02:00:15 INFO  time: compiled hello in 94ms
+2020.07.07 02:00:18 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 8m 59.993s)
+2020.07.07 02:00:18 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 9m 17.113s)
+2020.07.07 02:00:18 INFO  compiling hello (1 scala source)
+2020.07.07 02:00:18 INFO  compiling hello (1 scala source)
+2020.07.07 02:00:18 INFO  time: compiled hello in 0.11s
+2020.07.07 02:00:18 INFO  time: compiled hello in 0.11s
+2020.07.07 02:00:20 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 9m 19.249s)
+2020.07.07 02:00:20 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 9m 19.256s)
+2020.07.07 02:00:20 INFO  compiling hello (1 scala source)
+2020.07.07 02:00:20 INFO  compiling hello (1 scala source)
+2020.07.07 02:00:20 INFO  time: compiled hello in 96ms
+2020.07.07 02:00:20 INFO  time: compiled hello in 97ms
+2020.07.07 02:00:57 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 9m 39.528s)
+2020.07.07 02:00:57 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 9m 56.65s)
+2020.07.07 02:00:57 INFO  compiling hello (1 scala source)
+2020.07.07 02:00:57 INFO  compiling hello (1 scala source)
+2020.07.07 02:00:57 INFO  time: compiled hello in 0.79s
+2020.07.07 02:00:57 INFO  time: compiled hello in 0.79s
+2020.07.07 02:01:00 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 9m 59.461s)
+2020.07.07 02:01:00 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 9m 59.466s)
+2020.07.07 02:01:00 INFO  compiling hello (1 scala source)
+2020.07.07 02:01:00 INFO  compiling hello (1 scala source)
+2020.07.07 02:01:00 INFO  time: compiled hello in 0.91s
+2020.07.07 02:01:00 INFO  time: compiled hello in 0.92s
+2020.07.07 02:01:03 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 10m 2.421s)
+2020.07.07 02:01:03 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 10m 2.427s)
+2020.07.07 02:04:24 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 13m 5.923s)
+2020.07.07 02:04:24 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 13m 5.934s)
+2020.07.07 02:04:24 INFO  compiling hello (1 scala source)
+2020.07.07 02:04:24 INFO  compiling hello (1 scala source)
+2020.07.07 02:04:24 INFO  time: compiled hello in 0.84s
+2020.07.07 02:04:24 INFO  time: compiled hello in 0.84s
+2020.07.07 02:04:26 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 13m 25.92s)
+2020.07.07 02:04:46 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 13m 28.291s)
+2020.07.07 02:04:46 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 13m 45.416s)
+2020.07.07 02:04:46 INFO  compiling hello (1 scala source)
+2020.07.07 02:04:46 INFO  compiling hello (1 scala source)
+2020.07.07 02:04:46 INFO  time: compiled hello in 0.84s
+2020.07.07 02:04:46 INFO  time: compiled hello in 0.84s
+2020.07.07 02:04:49 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 13m 48.289s)
+2020.07.07 02:05:01 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 14m 0.339s)
+2020.07.07 02:05:01 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 14m 0.347s)
+2020.07.07 02:05:01 INFO  compiling hello (1 scala source)
+2020.07.07 02:05:01 INFO  compiling hello (1 scala source)
+2020.07.07 02:05:01 INFO  time: compiled hello in 57ms
+2020.07.07 02:05:01 INFO  time: compiled hello in 63ms
+2020.07.07 02:05:03 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 14m 2.437s)
+2020.07.07 02:05:03 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 14m 2.444s)
+2020.07.07 02:05:03 INFO  compiling hello (1 scala source)
+2020.07.07 02:05:03 INFO  compiling hello (1 scala source)
+2020.07.07 02:05:03 INFO  time: compiled hello in 43ms
+2020.07.07 02:05:03 INFO  time: compiled hello in 49ms
+2020.07.07 02:05:05 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 13m 47.402s)
+2020.07.07 02:05:05 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 13m 47.408s)
+2020.07.07 02:05:05 INFO  compiling hello (1 scala source)
+2020.07.07 02:05:05 INFO  compiling hello (1 scala source)
+2020.07.07 02:05:05 INFO  time: compiled hello in 0.68s
+2020.07.07 02:05:05 INFO  time: compiled hello in 0.69s
+2020.07.07 02:05:10 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 13m 52.523s)
+2020.07.07 02:05:10 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 14m 9.643s)
+2020.07.07 02:05:10 INFO  compiling hello (1 scala source)
+2020.07.07 02:05:10 INFO  compiling hello (1 scala source)
+2020.07.07 02:05:10 INFO  time: compiled hello in 0.11s
+2020.07.07 02:05:10 INFO  time: compiled hello in 0.11s
+2020.07.07 02:05:12 INFO  compiling hello (1 scala source)
+2020.07.07 02:05:12 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 14m 11.783s)
+2020.07.07 02:05:12 INFO  compiling hello (1 scala source)
+2020.07.07 02:05:12 INFO  time: compiled hello in 0.1s
+2020.07.07 02:05:12 INFO  time: compiled hello in 0.11s
+2020.07.07 02:05:14 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 13m 56.797s)
+2020.07.07 02:05:14 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 14m 13.916s)
+2020.07.07 02:05:14 INFO  compiling hello (1 scala source)
+2020.07.07 02:05:14 INFO  compiling hello (1 scala source)
+2020.07.07 02:05:14 INFO  time: compiled hello in 0.66s
+2020.07.07 02:05:14 INFO  time: compiled hello in 0.66s
+Jul 07, 2020 2:13:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jul 07, 2020 2:13:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jul 07, 2020 2:13:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jul 07, 2020 2:13:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.07.07 02:13:40 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 22m 22.142s)
+2020.07.07 02:13:40 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 22m 22.15s)
+2020.07.07 02:13:40 INFO  compiling hello (1 scala source)
+2020.07.07 02:13:40 INFO  compiling hello (1 scala source)
+2020.07.07 02:13:40 INFO  time: compiled hello in 0.34s
+2020.07.07 02:13:40 INFO  time: compiled hello in 0.34s
+2020.07.07 02:13:42 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 22m 24.516s)
+2020.07.07 02:13:42 INFO  compiling hello (1 scala source)
+2020.07.07 02:13:42 INFO  compiling hello (1 scala source)
+2020.07.07 02:13:42 INFO  time: compiled hello in 0.29s
+2020.07.07 02:13:42 INFO  time: compiled hello in 0.29s
+something's wrong: no file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala in (Int, Int) => IntRangePosition(file:///c%3A/Users/gjuoun/Code/Sbt/test/src/main/scala/example/Hello.scala, 358, 358, 382)
+2020.07.07 02:13:49 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 22m 48.119s)
+2020.07.07 02:13:49 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 22m 31.021s)
+2020.07.07 02:13:49 INFO  compiling hello (1 scala source)
+2020.07.07 02:13:49 INFO  compiling hello (1 scala source)
+2020.07.07 02:13:49 INFO  time: compiled hello in 58ms
+2020.07.07 02:13:49 INFO  time: compiled hello in 60ms
+2020.07.07 02:13:51 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 22m 33.126s)
+2020.07.07 02:13:51 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 22m 33.135s)
+2020.07.07 02:13:51 INFO  compiling hello (1 scala source)
+2020.07.07 02:13:51 INFO  compiling hello (1 scala source)
+2020.07.07 02:13:51 INFO  time: compiled hello in 45ms
+2020.07.07 02:13:51 INFO  time: compiled hello in 45ms
+2020.07.07 02:13:55 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 22m 37.549s)
+2020.07.07 02:13:55 INFO  compiling hello (1 scala source)
+2020.07.07 02:13:55 INFO  compiling hello (1 scala source)
+2020.07.07 02:13:55 INFO  time: compiled hello in 0.51s
+2020.07.07 02:13:55 INFO  time: compiled hello in 0.53s
+2020.07.07 02:13:58 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 22m 40.095s)
+2020.07.07 02:14:00 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 22m 59.242s)
+2020.07.07 02:14:00 INFO  compiling hello (1 scala source)
+2020.07.07 02:14:00 INFO  compiling hello (1 scala source)
+2020.07.07 02:14:00 INFO  time: compiled hello in 0.44s
+2020.07.07 02:14:00 INFO  time: compiled hello in 0.44s
+Jul 07, 2020 2:14:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ClassNotFoundException: example.${fileBaseName}
+java.util.concurrent.CompletionException: java.lang.ClassNotFoundException: example.${fileBaseName}
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at scala.concurrent.BatchingExecutor$Batch.processBatch$1(BatchingExecutor.scala:67)
+	at scala.concurrent.BatchingExecutor$Batch.$anonfun$run$1(BatchingExecutor.scala:82)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:59)
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:875)
+	at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:110)
+	at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:107)
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:873)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:42)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: example.${fileBaseName}
+	at scala.meta.internal.metals.BuildTargetClassesFinder.$anonfun$findClassAndBuildTarget$1(BuildTargetClassesFinder.scala:62)
+	at scala.Option.fold(Option.scala:251)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findClassAndBuildTarget(BuildTargetClassesFinder.scala:63)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findMainClassAndItsBuildTarget(BuildTargetClassesFinder.scala:27)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveMainClassParams$1(DebugProvider.scala:130)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$withRebuildRetry$1.$anonfun$applyOrElse$5(DebugProvider.scala:290)
+	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:307)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+	... 4 more
+
+2020.07.07 02:14:47 INFO  Listening for transport dt_socket at address: 51082
+2020.07.07 02:14:48 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2020.07.07 02:14:48 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2020.07.07 02:14:49 INFO  Starting debug proxy for [example.World]
+2020.07.07 02:14:49 INFO  Trying to attach to remote debuggee VM localhost:51082 .
+2020.07.07 02:14:49 INFO  Attaching to debuggee VM succeeded.
+2020.07.07 02:14:49 INFO  world test
+2020.07.07 02:14:49 INFO  Canceling debug proxy for [example.World]
+Jul 07, 2020 2:14:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ClassNotFoundException: example.${fileBaseName}
+java.util.concurrent.CompletionException: java.lang.ClassNotFoundException: example.${fileBaseName}
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at scala.concurrent.BatchingExecutor$Batch.processBatch$1(BatchingExecutor.scala:67)
+	at scala.concurrent.BatchingExecutor$Batch.$anonfun$run$1(BatchingExecutor.scala:82)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:59)
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:875)
+	at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:110)
+	at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:107)
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:873)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:42)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: example.${fileBaseName}
+	at scala.meta.internal.metals.BuildTargetClassesFinder.$anonfun$findClassAndBuildTarget$1(BuildTargetClassesFinder.scala:62)
+	at scala.Option.fold(Option.scala:251)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findClassAndBuildTarget(BuildTargetClassesFinder.scala:63)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findMainClassAndItsBuildTarget(BuildTargetClassesFinder.scala:27)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveMainClassParams$1(DebugProvider.scala:130)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$withRebuildRetry$1.$anonfun$applyOrElse$5(DebugProvider.scala:290)
+	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:307)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+	... 4 more
+
+Jul 07, 2020 2:15:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jul 07, 2020 2:15:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.07.07 02:15:14 INFO  Listening for transport dt_socket at address: 51224
+2020.07.07 02:15:15 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2020.07.07 02:15:15 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2020.07.07 02:15:16 INFO  Starting debug proxy for [example.Hello]
+2020.07.07 02:15:16 INFO  Trying to attach to remote debuggee VM localhost:51224 .
+2020.07.07 02:15:16 INFO  Attaching to debuggee VM succeeded.
+2020.07.07 02:15:16 INFO  Tue Jul 07 02:15:16 ADT 2020----hey 1
+2020.07.07 02:15:16 INFO  Tue Jul 07 02:15:17 ADT 2020----hey 2
+2020.07.07 02:15:16 INFO  Tue Jul 07 02:15:17 ADT 2020----hey 3
+2020.07.07 02:15:16 INFO  6
+2020.07.07 02:15:16 INFO  List(10, 11, 12, 13, 14, 15, 16, 17, 18, 19)
+2020.07.07 02:15:16 INFO  class [Lscala.Tuple5;
+2020.07.07 02:15:16 INFO  2,3
+2020.07.07 02:15:16 INFO  List(Runoob, Google, Baidu, Runoob, Google, Baidu)
+2020.07.07 02:15:16 INFO  Map(key -> VALUE, key2 -> value2)
+2020.07.07 02:15:16 INFO  Some(VALUE)
+2020.07.07 02:15:16 INFO  None
+2020.07.07 02:15:16 INFO  class scala.Array$
+2020.07.07 02:15:16 INFO  List(Hey)
+2020.07.07 02:15:16 INFO  List(value, Hey)
+2020.07.07 02:15:16 INFO  The first day of the week is: Monday
+2020.07.07 02:15:16 INFO  Canceling debug proxy for [example.Hello]
+Jul 07, 2020 2:15:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jul 07, 2020 2:15:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jul 07, 2020 2:15:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ClassNotFoundException: example.${fileBaseNameNoExtension}
+java.util.concurrent.CompletionException: java.lang.ClassNotFoundException: example.${fileBaseNameNoExtension}
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at scala.concurrent.BatchingExecutor$Batch.processBatch$1(BatchingExecutor.scala:67)
+	at scala.concurrent.BatchingExecutor$Batch.$anonfun$run$1(BatchingExecutor.scala:82)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:59)
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:875)
+	at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:110)
+	at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:107)
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:873)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:42)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: example.${fileBaseNameNoExtension}
+	at scala.meta.internal.metals.BuildTargetClassesFinder.$anonfun$findClassAndBuildTarget$1(BuildTargetClassesFinder.scala:62)
+	at scala.Option.fold(Option.scala:251)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findClassAndBuildTarget(BuildTargetClassesFinder.scala:63)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findMainClassAndItsBuildTarget(BuildTargetClassesFinder.scala:27)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveMainClassParams$1(DebugProvider.scala:130)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$withRebuildRetry$1.$anonfun$applyOrElse$5(DebugProvider.scala:290)
+	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:307)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+	... 4 more
+
+Jul 07, 2020 2:16:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6898
+Jul 07, 2020 2:16:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6899
+Jul 07, 2020 2:16:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6901
+Jul 07, 2020 2:16:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6906
+Jul 07, 2020 2:16:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6907
+Jul 07, 2020 2:16:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6900
+Jul 07, 2020 2:16:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6911
+Jul 07, 2020 2:16:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6913
+Jul 07, 2020 2:16:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6912
+Jul 07, 2020 2:16:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6916
+Jul 07, 2020 2:16:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6914
+Jul 07, 2020 2:16:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ClassNotFoundException: example.${fileBaseNameNoExtension}
+java.util.concurrent.CompletionException: java.lang.ClassNotFoundException: example.${fileBaseNameNoExtension}
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at scala.concurrent.BatchingExecutor$Batch.processBatch$1(BatchingExecutor.scala:67)
+	at scala.concurrent.BatchingExecutor$Batch.$anonfun$run$1(BatchingExecutor.scala:82)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:59)
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:875)
+	at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:110)
+	at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:107)
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:873)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:42)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: example.${fileBaseNameNoExtension}
+	at scala.meta.internal.metals.BuildTargetClassesFinder.$anonfun$findClassAndBuildTarget$1(BuildTargetClassesFinder.scala:62)
+	at scala.Option.fold(Option.scala:251)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findClassAndBuildTarget(BuildTargetClassesFinder.scala:63)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findMainClassAndItsBuildTarget(BuildTargetClassesFinder.scala:27)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveMainClassParams$1(DebugProvider.scala:130)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$withRebuildRetry$1.$anonfun$applyOrElse$5(DebugProvider.scala:290)
+	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:307)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+	... 4 more
+
+Jul 07, 2020 2:16:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jul 07, 2020 2:16:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ClassNotFoundException: ${fileBaseNameNoExtension}
+java.util.concurrent.CompletionException: java.lang.ClassNotFoundException: ${fileBaseNameNoExtension}
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at scala.concurrent.BatchingExecutor$Batch.processBatch$1(BatchingExecutor.scala:67)
+	at scala.concurrent.BatchingExecutor$Batch.$anonfun$run$1(BatchingExecutor.scala:82)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:59)
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:875)
+	at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:110)
+	at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:107)
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:873)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:42)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: ${fileBaseNameNoExtension}
+	at scala.meta.internal.metals.BuildTargetClassesFinder.$anonfun$findClassAndBuildTarget$1(BuildTargetClassesFinder.scala:62)
+	at scala.Option.fold(Option.scala:251)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findClassAndBuildTarget(BuildTargetClassesFinder.scala:63)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findMainClassAndItsBuildTarget(BuildTargetClassesFinder.scala:27)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveMainClassParams$1(DebugProvider.scala:130)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$withRebuildRetry$1.$anonfun$applyOrElse$5(DebugProvider.scala:290)
+	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:307)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+	... 4 more
+
+Jul 07, 2020 2:17:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jul 07, 2020 2:17:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.07.07 02:17:36 INFO  Listening for transport dt_socket at address: 51916
+2020.07.07 02:17:37 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2020.07.07 02:17:37 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2020.07.07 02:17:38 INFO  Starting debug proxy for [example.World]
+2020.07.07 02:17:38 INFO  Trying to attach to remote debuggee VM localhost:51916 .
+2020.07.07 02:17:38 INFO  Attaching to debuggee VM succeeded.
+2020.07.07 02:17:38 INFO  world test
+2020.07.07 02:17:38 INFO  Canceling debug proxy for [example.World]
+2020.07.07 02:18:32 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 27m 14.133s)
+2020.07.07 02:18:32 INFO  compiling hello (1 scala source)
+2020.07.07 02:18:32 INFO  compiling hello (1 scala source)
+2020.07.07 02:18:32 INFO  time: compiled hello in 0.59s
+2020.07.07 02:18:32 INFO  time: compiled hello in 0.59s
+2020.07.07 02:18:34 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 27m 16.751s)
+2020.07.07 02:18:34 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 27m 16.76s)
+2020.07.07 02:18:34 INFO  compiling hello (1 scala source)
+2020.07.07 02:18:34 INFO  compiling hello (1 scala source)
+2020.07.07 02:18:34 INFO  time: compiled hello in 0.1s
+2020.07.07 02:18:34 INFO  time: compiled hello in 0.1s
+2020.07.07 02:18:37 INFO  compiling hello (1 scala source)
+2020.07.07 02:18:37 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 27m 18.901s)
+2020.07.07 02:18:37 INFO  compiling hello (1 scala source)
+2020.07.07 02:18:37 INFO  time: compiled hello in 74ms
+2020.07.07 02:18:37 INFO  time: compiled hello in 71ms
+2020.07.07 02:18:44 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 27m 43.674s)
+2020.07.07 02:18:44 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 27m 43.691s)
+2020.07.07 02:18:44 INFO  compiling hello (1 scala source)
+2020.07.07 02:18:44 INFO  compiling hello (1 scala source)
+2020.07.07 02:18:44 INFO  time: compiled hello in 0.51s
+2020.07.07 02:18:44 INFO  time: compiled hello in 0.51s
+2020.07.07 02:18:47 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 27m 46.223s)
+2020.07.07 02:18:49 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 27m 48.254s)
+2020.07.07 02:18:49 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 27m 48.262s)
+2020.07.07 02:18:49 INFO  compiling hello (1 scala source)
+2020.07.07 02:18:49 INFO  compiling hello (1 scala source)
+2020.07.07 02:18:49 INFO  time: compiled hello in 0.5s
+2020.07.07 02:18:49 INFO  time: compiled hello in 0.5s
+2020.07.07 02:18:56 INFO  Listening for transport dt_socket at address: 52352
+2020.07.07 02:18:57 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2020.07.07 02:18:58 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2020.07.07 02:18:58 INFO  Starting debug proxy for [example.World]
+2020.07.07 02:18:58 INFO  Trying to attach to remote debuggee VM localhost:52352 .
+2020.07.07 02:18:58 INFO  Attaching to debuggee VM succeeded.
+2020.07.07 02:18:58 INFO  x ????: 20
+2020.07.07 02:18:58 INFO  y ????: 30
+2020.07.07 02:18:58 INFO  Canceling debug proxy for [example.World]
+2020.07.07 02:20:22 INFO  running 'C:\Program Files\Java\jdk1.8.0_251\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\gjuoun\AppData\Local\Temp\metals643139914489478978\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2020.07.07 02:20:25 INFO  [info] welcome to sbt 1.3.13 (Oracle Corporation Java 1.8.0_251)
+2020.07.07 02:20:26 INFO  [info] loading global plugins from C:\Users\gjuoun\.sbt\1.0\plugins
+2020.07.07 02:20:26 INFO  [info] loading settings for project test-build from metals.sbt ...
+2020.07.07 02:20:26 INFO  [info] loading project definition from C:\Users\gjuoun\Code\Sbt\test\project
+2020.07.07 02:20:30 INFO  [info] loading settings for project hello from build.sbt ...
+2020.07.07 02:20:30 INFO  [info] set current project to Hello (in build file:/C:/Users/gjuoun/Code/Sbt/test/)
+2020.07.07 02:20:30 INFO  [success] Generated .bloop\helloCore.json
+2020.07.07 02:20:30 INFO  [success] Generated .bloop\hello-test.json
+2020.07.07 02:20:30 INFO  [success] Generated .bloop\helloCore-test.json
+2020.07.07 02:20:30 INFO  [success] Generated .bloop\hello.json
+2020.07.07 02:20:30 INFO  [success] Total time: 0 s, completed Jul 7, 2020 2:20:31 AM
+2020.07.07 02:20:30 INFO  build tool exit: 0
+2020.07.07 02:20:31 INFO  time: ran 'sbt bloopInstall' in 8.59s
+2020.07.07 02:20:31 INFO  disconnected: build server
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 13154'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\gjuoun\Code\Sbt\test\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\gjuoun\Code\Sbt\test\.bloop\helloCore-test.json'
+[0m[32m[D][0m Loading project from 'c:\Users\gjuoun\Code\Sbt\test\.bloop\helloCore.json'
+[0m[32m[D][0m Configured SemanticDB in projects 'helloCore-test', 'helloCore'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:13154...
+The server is listening for incoming connections at tcp://127.0.0.1:13154...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.07.07 02:20:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2020.07.07 02:20:32 INFO  time: connected to build server in 1.04s
+2020.07.07 02:20:32 INFO  Connected to Build server v1.4.3
+2020.07.07 02:20:32 INFO  time: indexed workspace in 0.17s
+2020.07.07 02:20:34 INFO  Listening for transport dt_socket at address: 52861
+2020.07.07 02:20:35 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2020.07.07 02:20:35 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2020.07.07 02:20:36 INFO  Starting debug proxy for [example.World]
+2020.07.07 02:20:36 INFO  Trying to attach to remote debuggee VM localhost:52861 .
+2020.07.07 02:20:36 INFO  Attaching to debuggee VM succeeded.
+2020.07.07 02:20:36 INFO  x ????: 20
+2020.07.07 02:20:36 INFO  y ????: 30
+2020.07.07 02:20:36 INFO  Canceling debug proxy for [example.World]
+Jul 07, 2020 2:22:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jul 07, 2020 2:22:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.07.07 02:22:27 INFO  Listening for transport dt_socket at address: 53435
+2020.07.07 02:22:28 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2020.07.07 02:22:28 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2020.07.07 02:22:29 INFO  Starting debug proxy for [example.World]
+2020.07.07 02:22:29 INFO  Trying to attach to remote debuggee VM localhost:53435 .
+2020.07.07 02:22:29 INFO  Attaching to debuggee VM succeeded.
+2020.07.07 02:22:29 INFO  x ????: 20
+2020.07.07 02:22:29 INFO  y ????: 30
+2020.07.07 02:22:29 INFO  Canceling debug proxy for [example.World]
+Jul 07, 2020 2:23:50 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.07.07 02:24:03 INFO  running 'C:\Program Files\Java\jdk1.8.0_251\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\gjuoun\AppData\Local\Temp\metals3675892495904523075\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2020.07.07 02:24:06 INFO  [info] welcome to sbt 1.3.13 (Oracle Corporation Java 1.8.0_251)
+2020.07.07 02:24:08 INFO  [info] loading global plugins from C:\Users\gjuoun\.sbt\1.0\plugins
+2020.07.07 02:24:09 INFO  [info] loading settings for project test-build from metals.sbt ...
+2020.07.07 02:24:09 INFO  [info] loading project definition from C:\Users\gjuoun\Code\Sbt\test\project
+2020.07.07 02:24:09 INFO  [info] loading settings for project hello from build.sbt ...
+2020.07.07 02:24:10 INFO  [info] set current project to Hello (in build file:/C:/Users/gjuoun/Code/Sbt/test/)
+2020.07.07 02:24:11 INFO  [success] Generated .bloop\helloCore.json
+2020.07.07 02:24:11 INFO  [success] Generated .bloop\helloCore-test.json
+2020.07.07 02:24:11 INFO  [success] Generated .bloop\hello-test.json
+2020.07.07 02:24:11 INFO  [success] Generated .bloop\hello.json
+2020.07.07 02:24:11 INFO  [success] Total time: 1 s, completed Jul 7, 2020 2:24:11 AM
+2020.07.07 02:24:11 INFO  build tool exit: 0
+2020.07.07 02:24:11 INFO  time: ran 'sbt bloopInstall' in 8.7s
+2020.07.07 02:24:11 INFO  disconnected: build server
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 36845'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 4 projects from 'c:\Users\gjuoun\Code\Sbt\test\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\gjuoun\Code\Sbt\test\.bloop\hello.json'
+[0m[32m[D][0m Loading project from 'c:\Users\gjuoun\Code\Sbt\test\.bloop\hello-test.json'
+[0m[32m[D][0m Loading project from 'c:\Users\gjuoun\Code\Sbt\test\.bloop\helloCore-test.json'
+[0m[32m[D][0m Loading project from 'c:\Users\gjuoun\Code\Sbt\test\.bloop\helloCore.json'
+[0m[32m[D][0m Configured SemanticDB in projects 'hello', 'hello-test', 'helloCore-test', 'helloCore'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:36845...
+The server is listening for incoming connections at tcp://127.0.0.1:36845...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.07.07 02:24:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2020.07.07 02:24:12 INFO  time: connected to build server in 1.09s
+2020.07.07 02:24:12 INFO  Connected to Build server v1.4.3
+2020.07.07 02:24:12 INFO  time: indexed workspace in 0.17s
+2020.07.07 02:24:13 INFO  compiling hello (2 scala sources)
+2020.07.07 02:24:13 INFO  time: compiled hello in 0.91s
+2020.07.07 02:24:13 INFO  compiling hello-test (1 scala source)
+2020.07.07 02:24:14 INFO  time: compiled hello-test in 0.19s
+2020.07.07 02:24:16 INFO  skipping build import with status 'Installed'
+2020.07.07 02:25:29 INFO  skipping build import with status 'Requested'
+2020.07.07 02:25:33 INFO  skipping build import with status 'Dismissed'
+2020.07.07 02:25:34 INFO  skipping build import with status 'Dismissed'
+2020.07.07 02:25:36 INFO  running 'C:\Program Files\Java\jdk1.8.0_251\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\gjuoun\AppData\Local\Temp\metals205538098796446908\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2020.07.07 02:25:40 INFO  [info] welcome to sbt 1.3.13 (Oracle Corporation Java 1.8.0_251)
+2020.07.07 02:25:42 INFO  [info] loading global plugins from C:\Users\gjuoun\.sbt\1.0\plugins
+2020.07.07 02:25:42 INFO  [info] loading settings for project test-build from metals.sbt ...
+2020.07.07 02:25:43 INFO  [info] loading project definition from C:\Users\gjuoun\Code\Sbt\test\project
+2020.07.07 02:25:43 INFO  [info] loading settings for project hello from build.sbt ...
+2020.07.07 02:25:43 INFO  [info] set current project to Hello (in build file:/C:/Users/gjuoun/Code/Sbt/test/)
+2020.07.07 02:25:44 INFO  [success] Generated .bloop\hello-test.json
+2020.07.07 02:25:44 INFO  [success] Generated .bloop\hello.json
+2020.07.07 02:25:44 INFO  [success] Generated .bloop\helloCore.json
+2020.07.07 02:25:44 INFO  [success] Generated .bloop\helloCore-test.json
+2020.07.07 02:25:44 INFO  [success] Total time: 0 s, completed Jul 7, 2020 2:25:44 AM
+2020.07.07 02:25:44 INFO  build tool exit: 0
+2020.07.07 02:25:44 INFO  time: ran 'sbt bloopInstall' in 8.13s
+2020.07.07 02:25:44 INFO  disconnected: build server
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 22348'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\gjuoun\Code\Sbt\test\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\gjuoun\Code\Sbt\test\.bloop\hello-test.json'
+[0m[32m[D][0m Loading project from 'c:\Users\gjuoun\Code\Sbt\test\.bloop\hello.json'
+[0m[32m[D][0m Configured SemanticDB in projects 'hello', 'hello-test'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:22348...
+The server is listening for incoming connections at tcp://127.0.0.1:22348...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.07.07 02:25:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2020.07.07 02:25:45 INFO  time: connected to build server in 1.07s
+2020.07.07 02:25:45 INFO  Connected to Build server v1.4.3
+2020.07.07 02:25:45 INFO  time: indexed workspace in 0.16s
+2020.07.07 02:25:46 INFO  compiling hello (2 scala sources)
+2020.07.07 02:25:46 INFO  time: compiled hello in 0.81s
+2020.07.07 02:25:46 INFO  compiling hello-test (1 scala source)
+2020.07.07 02:25:46 INFO  time: compiled hello-test in 0.16s
+2020.07.07 02:25:57 INFO  compiling hello (1 scala source)
+2020.07.07 02:25:57 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 11.834s)
+2020.07.07 02:25:57 INFO  compiling hello (1 scala source)
+2020.07.07 02:25:57 INFO  time: compiled hello in 0.57s
+2020.07.07 02:25:57 INFO  time: compiled hello in 0.57s
+2020.07.07 02:29:34 INFO  compiling hello (1 scala source)
+2020.07.07 02:29:34 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 3m 48.848s)
+2020.07.07 02:29:34 INFO  compiling hello (1 scala source)
+2020.07.07 02:29:34 INFO  time: compiled hello in 0.79s
+2020.07.07 02:29:34 INFO  time: compiled hello in 0.78s
+2020.07.07 02:29:37 INFO  compiling hello (1 scala source)
+2020.07.07 02:29:37 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 3m 51.656s)
+2020.07.07 02:29:37 INFO  compiling hello (1 scala source)
+2020.07.07 02:29:37 INFO  time: compiled hello in 0.73s
+2020.07.07 02:29:37 INFO  time: compiled hello in 0.72s
+2020.07.07 02:31:39 INFO  skipping build import with status 'Dismissed'
+2020.07.07 02:31:41 INFO  running 'C:\Program Files\Java\jdk1.8.0_251\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\gjuoun\AppData\Local\Temp\metals4641654780593903253\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2020.07.07 02:31:44 INFO  [info] welcome to sbt 1.3.13 (Oracle Corporation Java 1.8.0_251)
+2020.07.07 02:31:46 INFO  [info] loading global plugins from C:\Users\gjuoun\.sbt\1.0\plugins
+2020.07.07 02:31:47 INFO  [info] loading settings for project test-build from metals.sbt ...
+2020.07.07 02:31:47 INFO  [info] loading project definition from C:\Users\gjuoun\Code\Sbt\test\project
+2020.07.07 02:31:47 INFO  [info] loading settings for project hello from build.sbt ...
+2020.07.07 02:31:47 INFO  [info] set current project to Hello (in build file:/C:/Users/gjuoun/Code/Sbt/test/)
+2020.07.07 02:31:48 INFO  [success] Generated .bloop\helloCore.json
+2020.07.07 02:31:48 INFO  [success] Generated .bloop\hello-test.json
+2020.07.07 02:31:48 INFO  [success] Generated .bloop\helloCore-test.json
+2020.07.07 02:31:48 INFO  [success] Generated .bloop\hello.json
+2020.07.07 02:31:48 INFO  [success] Total time: 0 s, completed Jul 7, 2020 2:31:48 AM
+2020.07.07 02:31:48 INFO  build tool exit: 0
+2020.07.07 02:31:48 INFO  time: ran 'sbt bloopInstall' in 7.17s
+2020.07.07 02:31:48 INFO  disconnected: build server
+No more data in the client stdin, exiting...
+2020.07.07 02:31:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2020.07.07 02:31:49 INFO  time: connected to build server in 1.01s
+2020.07.07 02:31:49 INFO  Connected to Build server v1.4.3
+2020.07.07 02:31:49 INFO  time: indexed workspace in 0.15s
+2020.07.07 02:38:15 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 6m 26.245s)
+2020.07.07 02:38:15 INFO  compiling hello (1 scala source)
+2020.07.07 02:38:15 INFO  compiling hello (1 scala source)
+2020.07.07 02:38:15 INFO  time: compiled hello in 0.66s
+2020.07.07 02:38:15 INFO  time: compiled hello in 0.66s
+2020.07.07 02:38:18 INFO  compiling hello (1 scala source)
+2020.07.07 02:38:18 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 47m 17.37s)
+2020.07.07 02:38:18 INFO  compiling hello (1 scala source)
+2020.07.07 02:38:18 INFO  time: compiled hello in 0.55s
+2020.07.07 02:38:18 INFO  time: compiled hello in 0.54s
+2020.07.07 02:38:21 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 47m 20.128s)
+2020.07.07 02:38:21 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 47m 20.143s)
+2020.07.07 02:38:21 INFO  compiling hello (1 scala source)
+2020.07.07 02:38:21 INFO  compiling hello (1 scala source)
+2020.07.07 02:38:21 INFO  time: compiled hello in 0.53s
+2020.07.07 02:38:21 INFO  time: compiled hello in 0.54s
+2020.07.07 02:38:38 INFO  Listening for transport dt_socket at address: 58265
+2020.07.07 02:38:38 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2020.07.07 02:38:38 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2020.07.07 02:38:39 INFO  Starting debug proxy for [example.Marker]
+2020.07.07 02:38:39 INFO  Trying to attach to remote debuggee VM localhost:58265 .
+2020.07.07 02:38:39 INFO  Attaching to debuggee VM succeeded.
+2020.07.07 02:38:39 INFO  ??color?red
+2020.07.07 02:38:39 INFO  ??color?blue
+2020.07.07 02:38:39 INFO  ??color?green
+2020.07.07 02:38:39 INFO  color?red
+2020.07.07 02:38:39 INFO  color?blue
+2020.07.07 02:38:39 INFO  Canceling debug proxy for [example.Marker]
+2020.07.07 02:38:51 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 47m 49.949s)
+2020.07.07 02:38:51 INFO  compiling hello (1 scala source)
+2020.07.07 02:38:51 INFO  compiling hello (1 scala source)
+2020.07.07 02:38:51 INFO  time: compiled hello in 0.58s
+2020.07.07 02:38:51 INFO  time: compiled hello in 0.59s
+2020.07.07 02:38:53 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 7m 4.131s)
+2020.07.07 02:38:55 INFO  Listening for transport dt_socket at address: 58369
+2020.07.07 02:38:56 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2020.07.07 02:38:56 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2020.07.07 02:38:57 INFO  Starting debug proxy for [example.Marker]
+2020.07.07 02:38:57 INFO  Trying to attach to remote debuggee VM localhost:58369 .
+2020.07.07 02:38:57 INFO  Attaching to debuggee VM succeeded.
+2020.07.07 02:38:57 INFO  createcolor?red
+2020.07.07 02:38:57 INFO  createcolor?blue
+2020.07.07 02:38:57 INFO  createcolor?green
+2020.07.07 02:38:57 INFO  color?red
+2020.07.07 02:38:57 INFO  color?blue
+2020.07.07 02:38:57 INFO  Canceling debug proxy for [example.Marker]
+2020.07.07 02:39:06 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 48m 5.818s)
+2020.07.07 02:39:06 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 48m 5.833s)
+2020.07.07 02:39:06 INFO  compiling hello (1 scala source)
+2020.07.07 02:39:06 INFO  compiling hello (1 scala source)
+2020.07.07 02:39:06 INFO  time: compiled hello in 0.55s
+2020.07.07 02:39:06 INFO  time: compiled hello in 0.56s
+2020.07.07 02:39:09 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 7m 19.981s)
+2020.07.07 02:39:11 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 7m 22.471s)
+2020.07.07 02:39:11 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 7m 22.48s)
+2020.07.07 02:39:11 INFO  compiling hello (1 scala source)
+2020.07.07 02:39:11 INFO  compiling hello (1 scala source)
+2020.07.07 02:39:11 INFO  time: compiled hello in 0.56s
+2020.07.07 02:39:11 INFO  time: compiled hello in 0.57s
+2020.07.07 02:39:17 INFO  Listening for transport dt_socket at address: 58494
+2020.07.07 02:39:17 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2020.07.07 02:39:17 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2020.07.07 02:39:18 INFO  Starting debug proxy for [example.Marker]
+2020.07.07 02:39:18 INFO  Trying to attach to remote debuggee VM localhost:58494 .
+2020.07.07 02:39:18 INFO  Attaching to debuggee VM succeeded.
+2020.07.07 02:39:18 INFO  create:-color?red
+2020.07.07 02:39:18 INFO  create:-color?blue
+2020.07.07 02:39:18 INFO  create:-color?green
+2020.07.07 02:39:18 INFO  -color?red
+2020.07.07 02:39:18 INFO  -color?blue
+2020.07.07 02:39:18 INFO  Canceling debug proxy for [example.Marker]
+2020.07.07 02:39:34 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 7m 44.827s)
+2020.07.07 02:39:34 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 48m 33.266s)
+2020.07.07 02:39:34 INFO  compiling hello (1 scala source)
+2020.07.07 02:39:34 INFO  compiling hello (1 scala source)
+2020.07.07 02:39:34 INFO  time: compiled hello in 0.57s
+2020.07.07 02:39:34 INFO  time: compiled hello in 0.57s
+2020.07.07 02:39:36 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 7m 47.441s)
+2020.07.07 02:39:36 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 7m 47.465s)
+2020.07.07 02:39:36 INFO  compiling hello (1 scala source)
+2020.07.07 02:39:36 INFO  compiling hello (1 scala source)
+2020.07.07 02:39:36 INFO  time: compiled hello in 0.6s
+2020.07.07 02:39:36 INFO  time: compiled hello in 0.6s
+2020.07.07 02:39:39 INFO  compiling hello (1 scala source)
+2020.07.07 02:39:39 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 7m 50.097s)
+2020.07.07 02:39:39 INFO  compiling hello (1 scala source)
+2020.07.07 02:39:39 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 7m 50.106s)
+2020.07.07 02:39:39 INFO  compiling hello (1 scala source)
+2020.07.07 02:39:39 INFO  time: compiled hello in 0.58s
+2020.07.07 02:39:39 INFO  time: compiled hello in 0.59s
+2020.07.07 02:39:42 INFO  Listening for transport dt_socket at address: 58636
+2020.07.07 02:39:43 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2020.07.07 02:39:43 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2020.07.07 02:39:44 INFO  Starting debug proxy for [example.Marker]
+2020.07.07 02:39:44 INFO  Trying to attach to remote debuggee VM localhost:58636 .
+2020.07.07 02:39:44 INFO  Attaching to debuggee VM succeeded.
+2020.07.07 02:39:44 INFO  create: color:red
+2020.07.07 02:39:44 INFO  create: color:blue
+2020.07.07 02:39:44 INFO  create: color:green
+2020.07.07 02:39:44 INFO   color:red
+2020.07.07 02:39:44 INFO   color:blue
+2020.07.07 02:39:44 INFO  Canceling debug proxy for [example.Marker]
+2020.07.07 02:40:37 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 8m 48.022s)
+2020.07.07 02:40:37 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 8m 48.043s)
+2020.07.07 02:40:37 INFO  compiling hello (1 scala source)
+2020.07.07 02:40:37 INFO  compiling hello (1 scala source)
+2020.07.07 02:40:37 INFO  time: compiled hello in 66ms
+2020.07.07 02:40:37 INFO  time: compiled hello in 67ms
+2020.07.07 02:40:39 INFO  compiling hello (1 scala source)
+2020.07.07 02:40:39 INFO  time: compiled hello in 78ms
+2020.07.07 02:40:39 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 49m 38.562s)
+2020.07.07 02:40:39 INFO  compiling hello (1 scala source)
+2020.07.07 02:40:39 INFO  compiling hello (1 scala source)
+2020.07.07 02:40:39 INFO  time: compiled hello in 43ms
+2020.07.07 02:40:39 INFO  time: compiled hello in 44ms
+2020.07.07 02:40:44 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 8m 55.31s)
+2020.07.07 02:40:44 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 8m 55.325s)
+2020.07.07 02:40:46 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 49m 45.77s)
+2020.07.07 02:40:46 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 8m 57.353s)
+2020.07.07 02:41:30 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 9m 41.031s)
+2020.07.07 02:41:30 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 50m 29.47s)
+2020.07.07 02:41:30 INFO  compiling hello (1 scala source)
+2020.07.07 02:41:30 INFO  compiling hello (1 scala source)
+2020.07.07 02:41:30 INFO  time: compiled hello in 0.6s
+2020.07.07 02:41:30 INFO  time: compiled hello in 0.6s
+2020.07.07 02:41:33 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 9m 43.666s)
+2020.07.07 02:41:35 INFO  Listening for transport dt_socket at address: 59205
+2020.07.07 02:41:36 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2020.07.07 02:41:36 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2020.07.07 02:41:37 INFO  Starting debug proxy for [example.Marker]
+2020.07.07 02:41:37 INFO  Trying to attach to remote debuggee VM localhost:59205 .
+2020.07.07 02:41:37 INFO  Attaching to debuggee VM succeeded.
+2020.07.07 02:41:37 INFO  create: color:red
+2020.07.07 02:41:37 INFO  create: color:blue
+2020.07.07 02:41:37 INFO  create: color:green
+2020.07.07 02:41:37 INFO   color:red
+2020.07.07 02:41:37 INFO   color:blue
+2020.07.07 02:41:37 INFO  Canceling debug proxy for [example.Marker]
+2020.07.07 02:47:50 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 16m 1.481s)
+2020.07.07 02:47:50 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 56m 49.914s)
+2020.07.07 02:47:50 INFO  compiling hello (1 scala source)
+2020.07.07 02:47:50 INFO  compiling hello (1 scala source)
+2020.07.07 02:47:50 INFO  time: compiled hello in 0.59s
+2020.07.07 02:47:50 INFO  time: compiled hello in 0.6s
+2020.07.07 02:47:53 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 16m 4.111s)
+2020.07.07 02:47:55 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 16m 6.161s)
+2020.07.07 02:47:55 INFO  compiling hello (1 scala source)
+2020.07.07 02:47:55 INFO  compiling hello (1 scala source)
+2020.07.07 02:47:55 INFO  time: compiled hello in 0.58s
+2020.07.07 02:47:55 INFO  time: compiled hello in 0.59s
+2020.07.07 02:48:25 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 16m 36.098s)
+2020.07.07 02:48:25 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 16m 36.111s)
+2020.07.07 02:48:25 INFO  compiling hello (1 scala source)
+2020.07.07 02:48:25 INFO  compiling hello (1 scala source)
+2020.07.07 02:48:25 INFO  time: compiled hello in 66ms
+2020.07.07 02:48:25 INFO  time: compiled hello in 67ms
+2020.07.07 02:48:27 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 57m 26.634s)
+2020.07.07 02:48:27 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 57m 26.641s)
+2020.07.07 02:48:27 INFO  compiling hello (1 scala source)
+2020.07.07 02:48:27 INFO  compiling hello (1 scala source)
+2020.07.07 02:48:27 INFO  time: compiled hello in 83ms
+2020.07.07 02:48:27 INFO  time: compiled hello in 84ms
+2020.07.07 02:48:29 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 16m 40.328s)
+2020.07.07 02:48:29 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 16m 40.335s)
+2020.07.07 02:48:29 INFO  compiling hello (1 scala source)
+2020.07.07 02:48:29 INFO  compiling hello (1 scala source)
+2020.07.07 02:48:29 INFO  time: compiled hello in 0.54s
+2020.07.07 02:48:29 INFO  time: compiled hello in 0.55s
+2020.07.07 02:48:35 INFO  Deduplicating compilation of helloCore from bsp client 'Metals 0.9.1' (since 2h 57m 34.909s)
+2020.07.07 02:48:35 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 57m 34.925s)
+2020.07.07 02:48:36 INFO  compiling hello (1 scala source)
+2020.07.07 02:48:35 INFO  compiling hello (1 scala source)
+2020.07.07 02:48:35 INFO  time: compiled hello in 0.6s
+2020.07.07 02:48:36 INFO  time: compiled hello in 0.6s
+2020.07.07 02:48:38 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 16m 49.127s)
+2020.07.07 02:48:40 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 2h 57m 39.59s)
+2020.07.07 02:48:40 INFO  compiling hello (1 scala source)
+2020.07.07 02:48:40 INFO  compiling hello (1 scala source)
+2020.07.07 02:48:40 INFO  time: compiled hello in 0.61s
+2020.07.07 02:48:40 INFO  time: compiled hello in 0.61s
+2020.07.07 02:48:43 INFO  compiling hello (1 scala source)
+2020.07.07 02:48:43 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 16m 53.805s)
+2020.07.07 02:48:43 INFO  compiling hello (1 scala source)
+2020.07.07 02:48:43 INFO  time: compiled hello in 0.56s
+2020.07.07 02:48:43 INFO  time: compiled hello in 0.55s
+2020.07.07 02:48:47 INFO  Listening for transport dt_socket at address: 61356
+2020.07.07 02:48:48 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2020.07.07 02:48:48 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\gjuoun\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2020.07.07 02:48:49 INFO  Starting debug proxy for [example.Marker]
+2020.07.07 02:48:49 INFO  Trying to attach to remote debuggee VM localhost:61356 .
+2020.07.07 02:48:49 INFO  Attaching to debuggee VM succeeded.
+2020.07.07 02:48:49 INFO  create: color:red
+2020.07.07 02:48:49 INFO  create: color:blue
+2020.07.07 02:48:49 INFO  create: color:green
+2020.07.07 02:48:49 INFO   color:red
+2020.07.07 02:48:49 INFO   color:blue
+2020.07.07 02:48:49 INFO  Canceling debug proxy for [example.Marker]

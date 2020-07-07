@@ -53,7 +53,10 @@
             "name": "scala-compiler",
             "version": "2.12.11",
             "options": [
-                
+                "-encoding",
+                "utf8",
+                "-encoding",
+                "utf8"
             ],
             "jars": [
                 "C:\\Users\\gjuoun\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.12.11\\scala-compiler-2.12.11.jar",
