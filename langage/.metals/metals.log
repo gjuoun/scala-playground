@@ -1,0 +1,202 @@
+2020.07.11 19:49:12 INFO  started: Metals version 0.9.1 in workspace '/Users/johnguo/Code/github.com.gjuoun/scala-playground/langage'
+2020.07.11 19:49:12 INFO  time: initialize in 0.35s
+2020.07.11 19:49:13 INFO  no build target: using presentation compiler with only scala-library
+2020.07.11 19:49:15 WARN  no build target for: /Users/johnguo/Code/github.com.gjuoun/scala-playground/langage/src/main/scala/example/Hello.scala
+Jul 11, 2020 7:49:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ClassNotFoundException: example.Hello
+java.util.concurrent.CompletionException: java.lang.ClassNotFoundException: example.Hello
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:292)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:308)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:661)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:1990)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:29)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.apply(FutureConvertersImpl.scala:26)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at scala.concurrent.BatchingExecutor$Batch.processBatch$1(BatchingExecutor.scala:67)
+	at scala.concurrent.BatchingExecutor$Batch.$anonfun$run$1(BatchingExecutor.scala:82)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.BlockContext$.withBlockContext(BlockContext.scala:85)
+	at scala.concurrent.BatchingExecutor$Batch.run(BatchingExecutor.scala:59)
+	at scala.concurrent.Future$InternalCallbackExecutor$.unbatchedExecute(Future.scala:875)
+	at scala.concurrent.BatchingExecutor.execute(BatchingExecutor.scala:110)
+	at scala.concurrent.BatchingExecutor.execute$(BatchingExecutor.scala:107)
+	at scala.concurrent.Future$InternalCallbackExecutor$.execute(Future.scala:873)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:42)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: example.Hello
+	at scala.meta.internal.metals.BuildTargetClassesFinder.$anonfun$findClassAndBuildTarget$1(BuildTargetClassesFinder.scala:62)
+	at scala.Option.fold(Option.scala:251)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findClassAndBuildTarget(BuildTargetClassesFinder.scala:63)
+	at scala.meta.internal.metals.BuildTargetClassesFinder.findMainClassAndItsBuildTarget(BuildTargetClassesFinder.scala:27)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveMainClassParams$1(DebugProvider.scala:130)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$withRebuildRetry$1.$anonfun$applyOrElse$5(DebugProvider.scala:290)
+	at scala.concurrent.Future.$anonfun$flatMap$1(Future.scala:307)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
+	... 4 more
+
+2020.07.11 19:49:16 INFO  running '/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/hk/84y4wvdn7jl23g1vffd7cr1h0000gp/T/metals594951665662588491/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2020.07.11 19:49:21 ERROR [info] [launcher] getting org.scala-sbt sbt 1.3.13  (this may take some time)...
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/sbt/1.3.13/sbt-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/main_2.12/1.3.13/main_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/logic_2.12/1.3.13/logic_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/actions_2.12/1.3.13/actions_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/main-settings_2.12/1.3.13/main-settings_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR :: loading settings :: url = jar:file:/private/var/folders/hk/84y4wvdn7jl23g1vffd7cr1h0000gp/T/metals594951665662588491/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/run_2.12/1.3.13/run_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR :: loading settings :: url = jar:file:/private/var/folders/hk/84y4wvdn7jl23g1vffd7cr1h0000gp/T/metals594951665662588491/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2020.07.11 19:49:28 ERROR :: loading settings :: url = jar:file:/private/var/folders/hk/84y4wvdn7jl23g1vffd7cr1h0000gp/T/metals594951665662588491/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2020.07.11 19:49:28 ERROR :: loading settings :: url = jar:file:/private/var/folders/hk/84y4wvdn7jl23g1vffd7cr1h0000gp/T/metals594951665662588491/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2020.07.11 19:49:28 ERROR :: loading settings :: url = jar:file:/private/var/folders/hk/84y4wvdn7jl23g1vffd7cr1h0000gp/T/metals594951665662588491/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2020.07.11 19:49:28 ERROR :: loading settings :: url = jar:file:/private/var/folders/hk/84y4wvdn7jl23g1vffd7cr1h0000gp/T/metals594951665662588491/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2020.07.11 19:49:28 ERROR :: loading settings :: url = jar:file:/private/var/folders/hk/84y4wvdn7jl23g1vffd7cr1h0000gp/T/metals594951665662588491/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2020.07.11 19:49:28 ERROR :: loading settings :: url = jar:file:/private/var/folders/hk/84y4wvdn7jl23g1vffd7cr1h0000gp/T/metals594951665662588491/sbt-launch.jar!/org/apache/ivy/core/settings/ivysettings.xml
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/collections_2.12/1.3.13/collections_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/command_2.12/1.3.13/command_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#logic_2.12;1.3.13!logic_2.12.jar (234ms)
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/scripted-sbt-redux_2.12/1.3.13/scripted-sbt-redux_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#sbt;1.3.13!sbt.jar (360ms)
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/scripted-plugin_2.12/1.3.13/scripted-plugin_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#run_2.12;1.3.13!run_2.12.jar (360ms)
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-lm-integration_2.12/1.3.13/zinc-lm-integration_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#actions_2.12;1.3.13!actions_2.12.jar (398ms)
+2020.07.11 19:49:28 ERROR downloading file:////Users/johnguo/.sbt/preloaded/org/scala-lang/modules/scala-xml_2.12/1.3.0/scala-xml_2.12-1.3.0.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.3.0!scala-xml_2.12.jar(bundle) (8ms)
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.3.4/librarymanagement-core_2.12-1.3.4.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#collections_2.12;1.3.13!collections_2.12.jar (458ms)
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.3.4/librarymanagement-ivy_2.12-1.3.4.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#scripted-plugin_2.12;1.3.13!scripted-plugin_2.12.jar (186ms)
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/completion_2.12/1.3.13/completion_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#main-settings_2.12;1.3.13!main-settings_2.12.jar (548ms)
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/task-system_2.12/1.3.13/task-system_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#zinc-lm-integration_2.12;1.3.13!zinc-lm-integration_2.12.jar (224ms)
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/tasks_2.12/1.3.13/tasks_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#command_2.12;1.3.13!command_2.12.jar (592ms)
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/testing_2.12/1.3.13/testing_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#scripted-sbt-redux_2.12;1.3.13!scripted-sbt-redux_2.12.jar (474ms)
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.3.13/test-agent-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#librarymanagement-core_2.12;1.3.4!librarymanagement-core_2.12.jar (386ms)
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#main_2.12;1.3.13!main_2.12.jar (802ms)
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/core-macros_2.12/1.3.13/core-macros_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#tasks_2.12;1.3.13!tasks_2.12.jar (216ms)
+2020.07.11 19:49:28 ERROR downloading https://repo1.maven.org/maven2/org/scala-sbt/protocol_2.12/1.3.13/protocol_2.12-1.3.13.jar ...
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#librarymanagement-ivy_2.12;1.3.4!librarymanagement-ivy_2.12.jar (335ms)
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#test-agent;1.3.13!test-agent.jar (143ms)
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#task-system_2.12;1.3.13!task-system_2.12.jar (312ms)
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#testing_2.12;1.3.13!testing_2.12.jar (304ms)
+2020.07.11 19:49:28 ERROR 	[SUCCESSFUL ] org.scala-sbt#completion_2.12;1.3.13!completion_2.12.jar (411ms)
+2020.07.11 19:49:29 ERROR 	[SUCCESSFUL ] org.scala-sbt#core-macros_2.12;1.3.13!core-macros_2.12.jar (195ms)
+2020.07.11 19:49:29 ERROR 	[SUCCESSFUL ] org.scala-sbt#protocol_2.12;1.3.13!protocol_2.12.jar (229ms)
+2020.07.11 19:49:29 ERROR :: retrieving :: org.scala-sbt#boot-app
+2020.07.11 19:49:29 ERROR 	confs: [default]
+2020.07.11 19:49:29 ERROR 	81 artifacts copied, 0 already retrieved
+2020.07.11 19:49:37 WARN  no build target for: /Users/johnguo/Code/github.com.gjuoun/scala-playground/langage/src/main/scala/example/Hello.scala
+2020.07.11 19:49:37 INFO  [info] welcome to sbt 1.3.13 (Oracle Corporation Java 1.8.0_251)
+2020.07.11 19:49:40 INFO  [info] loading settings for project langage-build from metals.sbt ...
+2020.07.11 19:49:45 INFO  [info] loading project definition from /Users/johnguo/Code/github.com.gjuoun/scala-playground/langage/project
+2020.07.11 19:49:51 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+2020.07.11 19:49:54 INFO  [info] loading settings for project hello from build.sbt ...
+2020.07.11 19:49:54 INFO  [info] set current project to Hello (in build file:/Users/johnguo/Code/github.com.gjuoun/scala-playground/langage/)
+2020.07.11 19:49:58 INFO  [warn] scala-library-2.12.11-sources.jar no longer exists at /C:/Users/gjuoun/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.11/scala-library-2.12.11-sources.jar
+2020.07.11 19:49:59 INFO  [success] Generated .bloop/helloCore.json
+2020.07.11 19:49:59 INFO  [success] Generated .bloop/helloCore-test.json
+2020.07.11 19:50:01 INFO  [success] Generated .bloop/hello.json
+2020.07.11 19:50:01 INFO  [success] Generated .bloop/hello-test.json
+2020.07.11 19:50:01 INFO  [success] Total time: 6 s, completed 11-Jul-2020 7:50:01 PM
+2020.07.11 19:50:01 INFO  build tool exit: 0
+2020.07.11 19:50:01 INFO  time: ran 'sbt bloopInstall' in 45s
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/hk/84y4wvdn7jl23g1vffd7cr1h0000gp/T/bsp-launcher6115837938692814167/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading 4 projects from '/Users/johnguo/Code/github.com.gjuoun/scala-playground/langage/.bloop'...
+[0m[32m[D][0m Loading project from '/Users/johnguo/Code/github.com.gjuoun/scala-playground/langage/.bloop/helloCore-test.json'
+[0m[32m[D][0m Loading project from '/Users/johnguo/Code/github.com.gjuoun/scala-playground/langage/.bloop/hello-test.json'
+[0m[32m[D][0m Loading project from '/Users/johnguo/Code/github.com.gjuoun/scala-playground/langage/.bloop/helloCore.json'
+[0m[32m[D][0m Loading project from '/Users/johnguo/Code/github.com.gjuoun/scala-playground/langage/.bloop/hello.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.12.11.
+[0m[32m[D][0m   => /Users/johnguo/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar
+[0m[32m[D][0m   => /Users/johnguo/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar
+[0m[32m[D][0m   => /Users/johnguo/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar
+[0m[32m[D][0m   => /Users/johnguo/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.11/scala-compiler-2.12.11.jar
+[0m[32m[D][0m   => /Users/johnguo/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.11/scala-library-2.12.11.jar
+[0m[32m[D][0m   => /Users/johnguo/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.11/scala-reflect-2.12.11.jar
+[0m[32m[D][0m Missing analysis file for project 'hello-test'
+[0m[32m[D][0m Missing analysis file for project 'helloCore'
+[0m[32m[D][0m Missing analysis file for project 'helloCore-test'
+[0m[32m[D][0m Missing analysis file for project 'hello'
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/hk/84y4wvdn7jl23g1vffd7cr1h0000gp/T/bsp-launcher6115837938692814167/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/hk/84y4wvdn7jl23g1vffd7cr1h0000gp/T/bsp-launcher6115837938692814167/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2020.07.11 19:50:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/johnguo/Library/Caches/org.scalameta.metals/bsp.trace.json
+2020.07.11 19:50:06 INFO  time: connected to build server in 4.62s
+2020.07.11 19:50:06 INFO  Connected to Build server v1.4.3
+2020.07.11 19:50:09 INFO  time: indexed workspace in 2.71s
+2020.07.11 19:50:36 INFO  compiling hello (3 scala sources)
+2020.07.11 19:50:36 INFO  Deduplicating compilation of hello from bsp client 'Metals 0.9.1' (since 34.902s)
+2020.07.11 19:50:36 INFO  Deduplicating compilation of helloCore-test from bsp client 'Metals 0.9.1' (since 34.903s)
+2020.07.11 19:50:36 INFO  compiling hello (3 scala sources)
+2020.07.11 19:50:51 INFO  Deduplicating compilation of hello-test from bsp client 'Metals 0.9.1' (since 49.594s)
+2020.07.11 19:50:51 INFO  compiling hello-test (1 scala source)
+2020.07.11 19:50:51 INFO  compiling hello-test (1 scala source)
+2020.07.11 19:50:51 INFO  time: compiled hello in 14s
+2020.07.11 19:50:51 INFO  time: compiled hello-test in 0.58s
+2020.07.11 19:50:58 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/johnguo/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2020.07.11 19:50:58 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/johnguo/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2020.07.11 19:50:58 INFO  Starting debug proxy for [example.Hello]
+2020.07.11 19:50:58 INFO  Listening for transport dt_socket at address: 60283
+2020.07.11 19:50:58 INFO  Trying to attach to remote debuggee VM localhost:60283 .
+2020.07.11 19:51:03 INFO  Attaching to debuggee VM succeeded.
+2020.07.11 19:51:03 INFO  Sat Jul 11 19:51:03 ADT 2020----hey 1
+2020.07.11 19:51:03 INFO  Sat Jul 11 19:51:04 ADT 2020----hey 2
+2020.07.11 19:51:03 INFO  Sat Jul 11 19:51:04 ADT 2020----hey 3
+2020.07.11 19:51:03 INFO  6
+2020.07.11 19:51:03 INFO  List(10, 11, 12, 13, 14, 15, 16, 17, 18, 19)
+2020.07.11 19:51:03 INFO  class [Lscala.Tuple5;
+2020.07.11 19:51:03 INFO  2,3
+2020.07.11 19:51:03 INFO  List(Runoob, Google, Baidu, Runoob, Google, Baidu)
+2020.07.11 19:51:03 INFO  Map(key -> VALUE, key2 -> value2)
+2020.07.11 19:51:03 INFO  Some(VALUE)
+2020.07.11 19:51:03 INFO  None
+2020.07.11 19:51:03 INFO  class scala.Array$
+2020.07.11 19:51:03 INFO  List(Hey)
+2020.07.11 19:51:03 INFO  List(value, Hey)
+2020.07.11 19:51:03 INFO  The first day of the week is: Monday
+2020.07.11 19:51:04 INFO  Canceling debug proxy for [example.Hello]
+2020.07.11 19:51:13 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/johnguo/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2020.07.11 19:51:13 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/johnguo/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2020.07.11 19:51:13 INFO  Starting debug proxy for [example.Hello]
+2020.07.11 19:51:14 INFO  Listening for transport dt_socket at address: 60291
+2020.07.11 19:51:14 INFO  Trying to attach to remote debuggee VM localhost:60291 .
+2020.07.11 19:51:14 INFO  Attaching to debuggee VM succeeded.
+2020.07.11 19:51:14 INFO  Sat Jul 11 19:51:14 ADT 2020----hey 1
+2020.07.11 19:51:14 INFO  Sat Jul 11 19:51:14 ADT 2020----hey 2
+2020.07.11 19:51:14 INFO  Sat Jul 11 19:51:14 ADT 2020----hey 3
+2020.07.11 19:51:14 INFO  6
+2020.07.11 19:51:14 INFO  List(10, 11, 12, 13, 14, 15, 16, 17, 18, 19)
+2020.07.11 19:51:14 INFO  class [Lscala.Tuple5;
+2020.07.11 19:51:14 INFO  2,3
+2020.07.11 19:51:14 INFO  List(Runoob, Google, Baidu, Runoob, Google, Baidu)
+2020.07.11 19:51:14 INFO  Map(key -> VALUE, key2 -> value2)
+2020.07.11 19:51:14 INFO  Some(VALUE)
+2020.07.11 19:51:14 INFO  None
+2020.07.11 19:51:14 INFO  class scala.Array$
+2020.07.11 19:51:14 INFO  List(Hey)
+2020.07.11 19:51:14 INFO  List(value, Hey)
+2020.07.11 19:51:14 INFO  The first day of the week is: Monday
+2020.07.11 19:51:13 INFO  Canceling debug proxy for [example.Hello]
+2020.07.11 19:51:49 INFO  shutting down Metals
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
